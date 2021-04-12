@@ -28,452 +28,242 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/HashMap.java">
+        <entry file="file://$PROJECT_DIR$/src/jim/thread/RandomTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="147" column="55" selection-start-line="147" selection-start-column="55" selection-end-line="147" selection-end-column="55" />
+            <state relative-caret-position="320">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding>
-                <element signature="docComment;class#HashMap#0" />
-                <element signature="e#10630#10703#0" />
-                <element signature="e#10775#10955#0" />
-                <element signature="e#11010#11085#0" />
-                <element signature="e#11143#11508#0" />
-                <element signature="e#11558#11773#0" />
-                <element signature="e#11825#12093#0" />
-                <element signature="e#12147#12297#0" />
-                <element signature="e#12147#13475#0" />
-                <element signature="e#13219#13433#1" />
-                <element signature="e#13541#14494#0" />
-                <element signature="e#14631#14742#0" />
-                <element signature="e#14831#15508#1" />
-                <element signature="e#15053#15498#1" />
-                <element signature="e#15107#15484#1" />
-                <element signature="e#15541#15646#0" />
-                <element signature="e#15902#15979#0" />
-                <element signature="e#16303#16568#0" />
-                <element signature="e#16607#16722#0" />
-                <element signature="e#16772#16846#0" />
-                <element signature="e#16876#17254#0" />
-                <element signature="e#17288#17393#0" />
-                <element signature="e#17647#17723#0" />
-                <element signature="e#17818#18164#0" />
-                <element signature="e#18791#19062#0" />
-                <element signature="e#19168#19305#0" />
-                <element signature="e#19417#19839#0" />
-                <element signature="e#19985#20198#0" />
-                <element signature="e#20323#20934#1" />
-                <element signature="e#20356#20638#1" />
-                <element signature="e#20772#20924#1" />
-                <element signature="e#20946#21085#0" />
-                <element signature="e#21142#21305#0" />
-                <element signature="e#21374#22175#0" />
-                <element signature="e#22310#22474#0" />
-                <element signature="e#22696#23282#1" />
-                <element signature="e#22911#23272#1" />
-                <element signature="e#23053#23228#1" />
-                <element signature="e#23315#23586#0" />
-                <element signature="e#23691#24297#0" />
-                <element signature="e#24403#24735#0" />
-                <element signature="e#25106#26251#1" />
-                <element signature="e#25408#25971#1" />
-                <element signature="e#25463#25957#1" />
-                <element signature="e#25511#25759#1" />
-                <element signature="e#25999#26241#1" />
-                <element signature="e#26393#26758#0" />
-                <element signature="e#26975#27305#1" />
-                <element signature="e#27021#27114#1" />
-                <element signature="e#27421#27620#1" />
-                <element signature="e#27646#27842#1" />
-                <element signature="e#28035#29792#1" />
-                <element signature="e#28082#29782#1" />
-                <element signature="e#28158#29768#1" />
-                <element signature="e#28449#29750#1" />
-                <element signature="e#28664#29355#1" />
-                <element signature="e#28765#29030#1" />
-                <element signature="e#29064#29329#1" />
-                <element signature="e#29428#29551#1" />
-                <element signature="e#29596#29728#1" />
-                <element signature="e#29827#29967#0" />
-                <element signature="e#30208#30659#1" />
-                <element signature="e#30273#30543#1" />
-                <element signature="e#30420#30505#1" />
-                <element signature="e#30671#30999#0" />
-                <element signature="e#31101#31540#0" />
-                <element signature="e#31712#32079#0" />
-                <element signature="e#32385#33706#1" />
-                <element signature="e#32610#33147#1" />
-                <element signature="e#32746#33133#1" />
-                <element signature="e#32771#33085#1" />
-                <element signature="e#32932#33032#1" />
-                <element signature="e#33295#33696#1" />
-                <element signature="e#33739#33854#0" />
-                <element signature="e#33973#34086#1" />
-                <element signature="e#34098#34380#0" />
-                <element signature="e#34507#34816#1" />
-                <element signature="e#34558#34806#1" />
-                <element signature="e#34626#34792#1" />
-                <element signature="e#34850#35623#0" />
-                <element signature="e#35705#35772#1" />
-                <element signature="e#35803#36985#0" />
-                <element signature="e#36629#36969#1" />
-                <element signature="e#36719#36854#1" />
-                <element signature="e#36991#37805#0" />
-                <element signature="e#37901#37968#1" />
-                <element signature="e#37999#39062#0" />
-                <element signature="e#38704#39046#1" />
-                <element signature="e#38794#38931#1" />
-                <element signature="e#39068#39938#0" />
-                <element signature="e#40101#41844#0" />
-                <element signature="e#40837#41071#1" />
-                <element signature="e#41492#41828#1" />
-                <element signature="e#41582#41713#1" />
-                <element signature="e#42569#42669#1" />
-                <element signature="e#42824#42959#1" />
-                <element signature="e#43560#44247#1" />
-                <element signature="e#43695#44063#1" />
-                <element signature="e#43758#44019#1" />
-                <element signature="e#43882#43969#1" />
-                <element signature="e#44151#44237#1" />
-                <element signature="e#44313#44349#1" />
-                <element signature="e#44372#44466#1" />
-                <element signature="e#44559#44711#1" />
-                <element signature="e#45179#45457#1" />
-                <element signature="e#45266#45372#1" />
-                <element signature="e#46059#46572#1" />
-                <element signature="e#46194#46562#1" />
-                <element signature="e#46257#46518#1" />
-                <element signature="e#46381#46468#1" />
-                <element signature="e#46707#46905#1" />
-                <element signature="e#46736#46820#1" />
-                <element signature="e#46934#47295#1" />
-                <element signature="e#47035#47203#1" />
-                <element signature="e#47972#48485#1" />
-                <element signature="e#48107#48475#1" />
-                <element signature="e#48170#48431#1" />
-                <element signature="e#48294#48381#1" />
-                <element signature="e#48511#48890#1" />
-                <element signature="e#48699#48783#1" />
-                <element signature="e#48918#49287#1" />
-                <element signature="e#49023#49195#1" />
-                <element signature="e#49544#49861#1" />
-                <element signature="e#49626#49758#1" />
-                <element signature="e#50116#50464#1" />
-                <element signature="e#50198#50361#1" />
-                <element signature="e#50266#50347#1" />
-                <element signature="e#50581#50760#0" />
-                <element signature="e#50765#50795#0" />
-                <element signature="e#50879#50940#0" />
-                <element signature="e#50978#51090#0" />
-                <element signature="e#51474#51996#0" />
-                <element signature="e#52319#52587#0" />
-                <element signature="e#53345#54765#1" />
-                <element signature="e#53347#53373#0" />
-                <element signature="e#54029#54093#0" />
-                <element signature="e#54487#54755#1" />
-                <element signature="e#54866#56424#0" />
-                <element signature="e#55293#55413#1" />
-                <element signature="e#55868#55962#1" />
-                <element signature="e#56430#56570#0" />
-                <element signature="e#56576#56720#0" />
-                <element signature="e#56726#56890#0" />
-                <element signature="e#56988#58229#0" />
-                <element signature="e#57833#58067#1" />
-                <element signature="e#58235#60945#0" />
-                <element signature="e#59138#59266#1" />
-                <element signature="e#59449#59910#1" />
-                <element signature="e#59541#59764#1" />
-                <element signature="e#59641#59746#1" />
-                <element signature="e#60207#60739#1" />
-                <element signature="e#60263#60725#1" />
-                <element signature="e#60379#60707#1" />
-                <element signature="e#60951#63638#0" />
-                <element signature="e#61866#61994#1" />
-                <element signature="e#62177#62640#1" />
-                <element signature="e#62269#62494#1" />
-                <element signature="e#62369#62476#1" />
-                <element signature="e#62937#63471#1" />
-                <element signature="e#62993#63457#1" />
-                <element signature="e#63109#63439#1" />
-                <element signature="e#63644#66405#0" />
-                <element signature="e#64585#64713#1" />
-                <element signature="e#64896#65353#1" />
-                <element signature="e#64988#65207#1" />
-                <element signature="e#65088#65189#1" />
-                <element signature="e#65663#66199#1" />
-                <element signature="e#65719#66185#1" />
-                <element signature="e#65835#66167#1" />
-                <element signature="e#67494#67577#0" />
-                <element signature="e#68174#68422#1" />
-                <element signature="e#68225#68412#1" />
-                <element signature="e#68293#68398#1" />
-                <element signature="e#68523#68695#0" />
-                <element signature="e#68523#91532#0" />
-                <element signature="e#69090#69159#0" />
-                <element signature="e#69243#69355#1" />
-                <element signature="e#69375#69459#0" />
-                <element signature="e#69629#70320#1" />
-                <element signature="e#69780#70260#1" />
-                <element signature="e#70340#70529#0" />
-                <element signature="e#70646#71477#1" />
-                <element signature="e#71541#71593#0" />
-                <element signature="e#71744#72072#0" />
-                <element signature="e#72443#72516#0" />
-                <element signature="e#72670#74101#1" />
-                <element signature="e#72793#72914#1" />
-                <element signature="e#72936#74087#1" />
-                <element signature="e#73098#74069#1" />
-                <element signature="e#73714#74047#1" />
-                <element signature="e#74161#74269#0" />
-                <element signature="e#74428#74641#1" />
-                <element signature="e#74684#74734#0" />
-                <element signature="e#75047#76640#1" />
-                <element signature="e#75496#75983#1" />
-                <element signature="e#75533#75917#1" />
-                <element signature="e#76088#76626#1" />
-                <element signature="e#76660#77256#0" />
-                <element signature="e#78176#78280#1" />
-                <element signature="e#78395#79774#1" />
-                <element signature="e#78725#78838#1" />
-                <element signature="e#78860#79242#1" />
-                <element signature="e#78960#79137#1" />
-                <element signature="e#79993#80345#1" />
-                <element signature="e#80463#80782#1" />
-                <element signature="e#80586#80768#1" />
-                <element signature="e#80868#81290#0" />
-                <element signature="e#81679#82295#1" />
-                <element signature="e#81799#82029#1" />
-                <element signature="e#82051#82281#1" />
-                <element signature="e#82329#82645#1" />
-                <element signature="e#82455#82631#1" />
-                <element signature="e#82678#82975#1" />
-                <element signature="e#82810#82961#1" />
-                <element signature="e#83339#83727#1" />
-                <element signature="e#83985#84375#1" />
-                <element signature="e#84635#86571#1" />
-                <element signature="e#84682#84766#1" />
-                <element signature="e#84908#85729#1" />
-                <element signature="e#84974#85152#1" />
-                <element signature="e#85178#85711#1" />
-                <element signature="e#85223#85389#1" />
-                <element signature="e#85430#85689#1" />
-                <element signature="e#85521#85663#1" />
-                <element signature="e#85751#86557#1" />
-                <element signature="e#85803#85981#1" />
-                <element signature="e#86007#86539#1" />
-                <element signature="e#86051#86218#1" />
-                <element signature="e#86259#86517#1" />
-                <element signature="e#86350#86491#1" />
-                <element signature="e#86771#90530#1" />
-                <element signature="e#86900#86984#1" />
-                <element signature="e#87017#87104#1" />
-                <element signature="e#87152#88824#1" />
-                <element signature="e#87215#87444#1" />
-                <element signature="e#87539#88806#1" />
-                <element signature="e#87718#87825#1" />
-                <element signature="e#87855#88784#1" />
-                <element signature="e#87912#88271#1" />
-                <element signature="e#88317#88535#1" />
-                <element signature="e#88580#88720#1" />
-                <element signature="e#88846#90516#1" />
-                <element signature="e#88909#89138#1" />
-                <element signature="e#89233#90498#1" />
-                <element signature="e#89412#89519#1" />
-                <element signature="e#89549#90476#1" />
-                <element signature="e#89606#89963#1" />
-                <element signature="e#90009#90226#1" />
-                <element signature="e#90271#90412#1" />
-                <element signature="e#90550#90602#0" />
+                <element signature="method#main#0;class#RandomTest#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/lang/ThreadLocal.java">
+        <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/concurrent/ThreadLocalRandom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1800">
-              <caret line="412" column="51" selection-start-line="412" selection-start-column="51" selection-end-line="412" selection-end-column="51" />
+            <state>
+              <caret line="123" column="2" selection-start-line="123" selection-start-column="2" selection-end-line="123" selection-end-column="2" />
               <folding>
-                <element signature="docComment;class#ThreadLocal#0" />
-                <element signature="docComment;field#threadLocalHashCode#0;class#ThreadLocal#0" />
-                <element signature="docComment;field#nextHashCode#0;class#ThreadLocal#0" />
-                <element signature="docComment;field#HASH_INCREMENT#0;class#ThreadLocal#0" />
-                <element signature="docComment;method#nextHashCode#0;class#ThreadLocal#0" />
-                <element signature="docComment;method#initialValue#0;class#ThreadLocal#0" />
-                <element signature="docComment;method#withInitial#0;class#ThreadLocal#0" />
-                <element signature="docComment;method#ThreadLocal#0;class#ThreadLocal#0" />
-                <element signature="docComment;method#get#0;class#ThreadLocal#0" />
-                <element signature="e#5542#5770#1" />
-                <element signature="e#5628#5760#1" />
-                <element signature="docComment;method#setInitialValue#0;class#ThreadLocal#0" />
-                <element signature="docComment;method#set#0;class#ThreadLocal#0" />
-                <element signature="docComment;method#remove#0;class#ThreadLocal#0" />
-                <element signature="docComment;method#getMap#0;class#ThreadLocal#0" />
-                <element signature="docComment;method#createMap#0;class#ThreadLocal#0" />
-                <element signature="docComment;method#createInheritedMap#0;class#ThreadLocal#0" />
-                <element signature="docComment;method#childValue#0;class#ThreadLocal#0" />
-                <element signature="docComment;class#SuppliedThreadLocal#0;class#ThreadLocal#0" />
-                <element signature="class#SuppliedThreadLocal#0;class#ThreadLocal#0" />
-                <element signature="docComment;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="docComment;class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="docComment;field#value#0;class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="method#Entry#0;class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="true" />
-                <element signature="docComment;field#INITIAL_CAPACITY#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="docComment;field#table#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="docComment;field#size#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="docComment;field#threshold#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="docComment;method#setThreshold#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="docComment;method#nextIndex#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="docComment;method#prevIndex#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="docComment;method#ThreadLocalMap#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="docComment;method#ThreadLocalMap#1;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="e#12918#13575#1" />
-                <element signature="e#12993#13561#1" />
-                <element signature="e#13160#13543#1" />
-                <element signature="docComment;method#getEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="method#getEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="true" />
-                <element signature="docComment;method#getEntryAfterMiss#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="e#14890#15174#1" />
-                <element signature="docComment;method#set#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="e#15456#15514#0" />
-                <element signature="e#15941#16250#1" />
-                <element signature="e#16018#16102#1" />
-                <element signature="e#16135#16236#1" />
-                <element signature="docComment;method#remove#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="e#16766#16938#1" />
-                <element signature="e#16804#16924#1" />
-                <element signature="docComment;method#replaceStaleEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="e#17888#17945#0" />
-                <element signature="e#18418#18480#0" />
-                <element signature="e#18640#19787#1" />
-                <element signature="e#18703#18745#0" />
-                <element signature="e#19062#19478#1" />
-                <element signature="e#19496#19550#0" />
-                <element signature="docComment;method#expungeStaleEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="e#21147#21830#1" />
-                <element signature="e#21224#21342#1" />
-                <element signature="e#21348#21816#1" />
-                <element signature="e#21445#21798#1" />
-                <element signature="e#21511#21562#0" />
-                <element signature="docComment;method#cleanSomeSlots#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="e#23311#23580#1" />
-                <element signature="e#23436#23566#1" />
-                <element signature="docComment;method#rehash#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="docComment;method#resize#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="e#24430#24970#1" />
-                <element signature="e#24500#24956#1" />
-                <element signature="e#24585#24663#1" />
-                <element signature="e#24669#24938#1" />
-                <element signature="docComment;method#expungeStaleEntries#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-                <element signature="e#25300#25441#1" />
+                <element signature="docComment;class#ThreadLocalRandom#0" />
+                <element signature="e#4831#4885#0" />
+                <element signature="e#4976#5034#0" />
+                <element signature="e#5116#5621#0" expanded="true" />
+                <element signature="e#5263#5520#1" />
+                <element signature="e#5627#5664#0" />
+                <element signature="e#5729#5789#0" />
+                <element signature="e#5854#5913#0" />
+                <element signature="e#6186#6249#0" />
+                <element signature="e#6706#6813#0" />
+                <element signature="e#6844#6893#0" />
+                <element signature="e#6996#7031#0" />
+                <element signature="e#7108#7462#0" />
+                <element signature="e#7108#7796#0" expanded="true" />
+                <element signature="e#7802#7945#0" />
+                <element signature="e#7802#8112#0" expanded="true" />
+                <element signature="e#8118#8299#0" />
+                <element signature="e#8480#8706#0" expanded="true" />
+                <element signature="e#9096#9452#0" />
+                <element signature="e#9576#10229#1" />
+                <element signature="e#9741#10046#1" />
+                <element signature="e#10064#10219#1" />
+                <element signature="e#10259#10566#0" />
+                <element signature="e#10685#11165#1" />
+                <element signature="e#10830#11030#1" />
+                <element signature="e#11048#11155#1" />
+                <element signature="e#11195#11449#0" />
+                <element signature="e#11599#11790#1" />
+                <element signature="e#11820#11935#0" />
+                <element signature="e#12008#12398#0" />
+                <element signature="e#12008#12875#0" expanded="true" />
+                <element signature="e#12881#13361#0" />
+                <element signature="e#13555#13672#0" />
+                <element signature="e#13747#14139#0" />
+                <element signature="e#14405#14600#1" />
+                <element signature="e#14630#15112#0" />
+                <element signature="e#15311#15544#0" />
+                <element signature="e#15646#16041#0" />
+                <element signature="e#16399#16871#0" />
+                <element signature="e#17082#17205#0" />
+                <element signature="e#17290#17521#0" />
+                <element signature="e#17780#17868#1" />
+                <element signature="e#17906#18070#1" />
+                <element signature="e#18271#18335#0" />
+                <element signature="e#18405#18766#0" />
+                <element signature="e#19061#19354#0" />
+                <element signature="e#19552#20320#0" />
+                <element signature="e#20816#21594#0" />
+                <element signature="e#21965#22328#0" />
+                <element signature="e#22625#22921#0" />
+                <element signature="e#23121#23884#0" />
+                <element signature="e#24388#25169#0" />
+                <element signature="e#25546#25958#0" />
+                <element signature="e#26266#26626#0" />
+                <element signature="e#26837#27650#0" />
+                <element signature="e#28172#28959#0" />
+                <element signature="e#29350#29731#0" />
+                <element signature="e#29350#31488#0" />
+                <element signature="e#30801#30969#1" />
+                <element signature="e#31198#31472#1" />
+                <element signature="e#31358#31441#1" />
+                <element signature="e#31494#31542#0" />
+                <element signature="e#31494#33315#0" />
+                <element signature="e#32623#32792#1" />
+                <element signature="e#33022#33298#1" />
+                <element signature="e#33183#33267#1" />
+                <element signature="e#33321#33371#0" />
+                <element signature="e#33321#35173#0" />
+                <element signature="e#34474#34645#1" />
+                <element signature="e#34877#35157#1" />
+                <element signature="e#35040#35126#1" />
+                <element signature="e#36103#36313#0" />
+                <element signature="e#36420#36526#0" />
+                <element signature="e#36772#36857#0" />
+                <element signature="e#37011#37114#1" />
+                <element signature="e#37128#37258#1" />
+                <element signature="e#37431#37592#0" />
+                <element signature="e#37796#37973#0" />
+                <element signature="e#38289#38463#0" />
+                <element signature="initializer##0;class#ThreadLocalRandom#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/lang/InheritableThreadLocal.java">
+        <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/concurrent/atomic/LongAccumulator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+            <state relative-caret-position="408">
+              <caret line="112" column="27" selection-start-line="112" selection-start-column="27" selection-end-line="112" selection-end-column="27" />
+              <folding>
+                <element signature="docComment;class#LongAccumulator#0" />
+                <element signature="docComment;method#LongAccumulator#0;class#LongAccumulator#0" />
+                <element signature="method#LongAccumulator#0;class#LongAccumulator#0" expanded="true" />
+                <element signature="docComment;method#accumulate#0;class#LongAccumulator#0" />
+                <element signature="docComment;method#get#0;class#LongAccumulator#0" />
+                <element signature="e#4260#4444#1" />
+                <element signature="e#4310#4434#1" />
+                <element signature="docComment;method#reset#0;class#LongAccumulator#0" />
+                <element signature="e#4955#5111#1" />
+                <element signature="e#5005#5101#1" />
+                <element signature="docComment;method#getThenReset#0;class#LongAccumulator#0" />
+                <element signature="e#5673#5949#1" />
+                <element signature="e#5723#5939#1" />
+                <element signature="e#5766#5925#1" />
+                <element signature="docComment;method#toString#0;class#LongAccumulator#0" />
+                <element signature="docComment;method#longValue#0;class#LongAccumulator#0" />
+                <element signature="docComment;method#intValue#0;class#LongAccumulator#0" />
+                <element signature="docComment;method#floatValue#0;class#LongAccumulator#0" />
+                <element signature="docComment;method#doubleValue#0;class#LongAccumulator#0" />
+                <element signature="docComment;class#SerializationProxy#0;class#LongAccumulator#0" />
+                <element signature="class#SerializationProxy#0;class#LongAccumulator#0" />
+                <element signature="docComment;field#value#0;class#SerializationProxy#0;class#LongAccumulator#0" />
+                <element signature="docComment;field#function#0;class#SerializationProxy#0;class#LongAccumulator#0" />
+                <element signature="docComment;field#identity#0;class#SerializationProxy#0;class#LongAccumulator#0" />
+                <element signature="docComment;method#readResolve#0;class#SerializationProxy#0;class#LongAccumulator#0" />
+                <element signature="docComment;method#writeReplace#0;class#LongAccumulator#0" />
+                <element signature="docComment;method#readObject#0;class#LongAccumulator#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jim/thread/TestThreadLocal.java">
+        <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/concurrent/atomic/LongAdder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            <state relative-caret-position="400">
+              <caret line="90" column="32" selection-start-line="90" selection-start-column="31" selection-end-line="90" selection-end-column="32" />
               <folding>
-                <element signature="method#main#0;class#TestThreadLocal#0" expanded="true" />
+                <element signature="docComment;class#LongAdder#0" />
+                <element signature="docComment;method#LongAdder#0;class#LongAdder#0" />
+                <element signature="docComment;method#add#0;class#LongAdder#0" />
+                <element signature="docComment;method#increment#0;class#LongAdder#0" />
+                <element signature="docComment;method#decrement#0;class#LongAdder#0" />
+                <element signature="docComment;method#sum#0;class#LongAdder#0" />
+                <element signature="method#sum#0;class#LongAdder#0" expanded="true" />
+                <element signature="docComment;method#reset#0;class#LongAdder#0" />
+                <element signature="method#reset#0;class#LongAdder#0" expanded="true" />
+                <element signature="docComment;method#sumThenReset#0;class#LongAdder#0" />
+                <element signature="docComment;method#toString#0;class#LongAdder#0" />
+                <element signature="docComment;method#longValue#0;class#LongAdder#0" />
+                <element signature="docComment;method#intValue#0;class#LongAdder#0" />
+                <element signature="docComment;method#floatValue#0;class#LongAdder#0" />
+                <element signature="docComment;method#doubleValue#0;class#LongAdder#0" />
+                <element signature="docComment;class#SerializationProxy#0;class#LongAdder#0" />
+                <element signature="class#SerializationProxy#0;class#LongAdder#0" />
+                <element signature="docComment;field#value#0;class#SerializationProxy#0;class#LongAdder#0" />
+                <element signature="docComment;method#readResolve#0;class#SerializationProxy#0;class#LongAdder#0" />
+                <element signature="docComment;method#writeReplace#0;class#LongAdder#0" />
+                <element signature="docComment;method#readObject#0;class#LongAdder#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/concurrent/atomic/Striped64.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="213" column="59" selection-start-line="213" selection-start-column="57" selection-end-line="213" selection-end-column="59" />
+              <folding>
+                <element signature="docComment;class#Striped64#0" />
+                <element signature="docComment;class#Cell#0;class#Striped64#0" />
+                <element signature="class#Cell#0;class#Striped64#0" />
+                <element signature="method#Cell#0;class#Cell#0;class#Striped64#0" expanded="true" />
+                <element signature="initializer##0;class#Cell#0;class#Striped64#0" expanded="true" />
+                <element signature="docComment;field#NCPU#0;class#Striped64#0" />
+                <element signature="docComment;field#cells#0;class#Striped64#0" />
+                <element signature="docComment;field#base#0;class#Striped64#0" />
+                <element signature="docComment;field#cellsBusy#0;class#Striped64#0" />
+                <element signature="docComment;method#Striped64#0;class#Striped64#0" />
+                <element signature="docComment;method#casBase#0;class#Striped64#0" />
+                <element signature="e#6222#6223#0" expanded="true" />
+                <element signature="e#6292#6293#0" expanded="true" />
+                <element signature="docComment;method#casCellsBusy#0;class#Striped64#0" />
+                <element signature="e#6406#6407#0" expanded="true" />
+                <element signature="e#6476#6477#0" expanded="true" />
+                <element signature="docComment;method#getProbe#0;class#Striped64#0" />
+                <element signature="e#6658#6659#0" expanded="true" />
+                <element signature="e#6725#6726#0" expanded="true" />
+                <element signature="docComment;method#advanceProbe#0;class#Striped64#0" />
+                <element signature="method#longAccumulate#0;class#Striped64#0" expanded="true" />
+                <element signature="e#8248#9328#1" />
+                <element signature="e#8546#8985#0" />
+                <element signature="e#8821#8955#1" />
+                <element signature="e#8994#9072#0" />
+                <element signature="e#9922#10249#0" />
+                <element signature="e#10258#10320#0" />
+                <element signature="e#10574#11061#1" />
+                <element signature="docComment;method#doubleAccumulate#0;class#Striped64#0" />
+                <element signature="e#11720#11859#1" />
+                <element signature="e#11955#15680#1" />
+                <element signature="e#12064#14631#1" />
+                <element signature="e#12117#13198#1" />
+                <element signature="e#12159#13143#1" />
+                <element signature="e#12329#13121#1" />
+                <element signature="e#12416#12855#0" />
+                <element signature="e#12691#12825#1" />
+                <element signature="e#12864#12942#0" />
+                <element signature="e#14024#14580#1" />
+                <element signature="e#14050#14377#0" />
+                <element signature="e#14093#14355#1" />
+                <element signature="e#14386#14448#0" />
+                <element signature="e#14702#15217#1" />
+                <element signature="e#14762#15087#0" />
+                <element signature="e#14847#15069#1" />
+                <element signature="e#15096#15150#0" />
+                <element signature="e#15900#16346#0" />
+                <element signature="e#16367#16410#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/jim/thread/ReadThreadTest.java">
+        <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-              <folding>
-                <element signature="method#run#0;class#ReadThread#0;class#ReadThreadTest#0" expanded="true" />
-                <element signature="method#run#0;class#Writethread#0;class#ReadThreadTest#0" expanded="true" />
-                <element signature="method#main#0;class#ReadThreadTest#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/nio/DirectLongBufferU.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="48" column="51" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/nio/Bits.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4520">
-              <caret line="562" column="18" selection-start-line="562" selection-start-column="18" selection-end-line="562" selection-end-column="18" />
-              <folding>
-                <element signature="e#15112#15113#0" expanded="true" />
-                <element signature="e#15141#15142#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jim/thread/TestUnSafe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#main#0;class#TestUnSafe#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/java.lang.ThreadLocal">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>java.lang.ThreadLocal</OriginalElement>
-              <nodes>
-                <node x="0.0" y="0.0">java.lang.ThreadLocal</node>
-              </nodes>
-              <notes />
-              <edges />
-              <settings layout="Hierarchic Group" zoom="1.0" x="195.0" y="141.5" />
-              <SelectedNodes>
-                <node>java.lang.ThreadLocal</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Methods</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
+            <state relative-caret-position="-96">
+              <caret line="100" column="30" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -493,6 +283,8 @@
       <find>setN</find>
       <find>set</find>
       <find>Unsafe</find>
+      <find>ThreadLocalRandom</find>
+      <find>0</find>
     </findStrings>
     <dirStrings>
       <dir>D:\DevInstall\JAVA\JDK\jre\lib\rt.jar</dir>
@@ -526,6 +318,9 @@
         <option value="$PROJECT_DIR$/src/jim/thread/TestUnSafe.java" />
         <option value="$PROJECT_DIR$/src/jim/thread/ReadThread.java" />
         <option value="$PROJECT_DIR$/src/jim/thread/ReadThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/jim/thread/TestForContent.java" />
+        <option value="$PROJECT_DIR$/src/jim/thread/Atomic.java" />
+        <option value="$PROJECT_DIR$/src/jim/thread/RandomTest.java" />
       </list>
     </option>
   </component>
@@ -542,8 +337,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -582,26 +375,37 @@
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="misc" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617704298397" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1618224152506" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -619,7 +423,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReadThreadTest">
+  <component name="RunManager" selected="Application.RandomTest">
+    <configuration name="Atomic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jim.thread.Atomic" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jim.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jim.thread.RandomTest" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jim.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReadThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jim.thread.ReadThreadTest" />
       <module name="study" />
@@ -633,8 +463,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestThreadLocal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jim.thread.TestThreadLocal" />
+    <configuration name="TestForContent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jim.thread.TestForContent" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
@@ -659,46 +489,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadLocalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jim.thread.ThreadLocalTest" />
-      <module name="study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jim.thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jim.thread.UserThreadTest" />
-      <module name="study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jim.thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.UserThreadTest" />
-      <item itemvalue="Application.ThreadLocalTest" />
-      <item itemvalue="Application.TestThreadLocal" />
       <item itemvalue="Application.TestUnSafe" />
       <item itemvalue="Application.ReadThreadTest" />
+      <item itemvalue="Application.TestForContent" />
+      <item itemvalue="Application.Atomic" />
+      <item itemvalue="Application.RandomTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomTest" />
+        <item itemvalue="Application.Atomic" />
+        <item itemvalue="Application.TestForContent" />
         <item itemvalue="Application.ReadThreadTest" />
         <item itemvalue="Application.TestUnSafe" />
-        <item itemvalue="Application.TestThreadLocal" />
-        <item itemvalue="Application.ThreadLocalTest" />
-        <item itemvalue="Application.UserThreadTest" />
       </list>
     </recent_temporary>
   </component>
@@ -717,17 +521,21 @@
       <workItem from="1617675429334" duration="3042000" />
       <workItem from="1617695024558" duration="5012000" />
       <workItem from="1617704092535" duration="69000" />
-      <workItem from="1617704170144" duration="651000" />
+      <workItem from="1617704170144" duration="987000" />
+      <workItem from="1617761196083" duration="1921000" />
+      <workItem from="1617767011849" duration="22892000" />
+      <workItem from="1618209222922" duration="8837000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43331000" />
+    <option name="totallyTimeSpent" value="77317000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18213573" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18562874" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -736,18 +544,19 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40847984" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2016546" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.09203723" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.10858325" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.16546018" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32988626" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32988626" />
       <window_info anchor="bottom" id="Tail" order="13" />
+      <window_info anchor="bottom" id="MyBatis Log" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -764,6 +573,36 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/concurrent/ThreadLocalRandom.java</url>
+          <line>220</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/concurrent/ThreadLocalRandom.java</url>
+          <line>1058</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/concurrent/ThreadLocalRandom.java</url>
+          <line>351</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/concurrent/ThreadLocalRandom.java</url>
+          <line>239</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/lang/Runnable.java">
@@ -1198,6 +1037,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="uml://JAVA/java.lang.ThreadLocal">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.ThreadLocal</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">java.lang.ThreadLocal</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="195.0" y="142.0" />
+          <SelectedNodes>
+            <node>java.lang.ThreadLocal</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1546,12 +1407,101 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/stream/BaseStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-640">
+          <caret line="63" column="17" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="183" column="63" lean-forward="true" selection-start-line="183" selection-start-column="63" selection-end-line="183" selection-end-column="63" />
+          <folding>
+            <element signature="docComment;class#Stream#0" />
+            <element signature="docComment;method#filter#0;class#Stream#0" />
+            <element signature="docComment;method#map#0;class#Stream#0" />
+            <element signature="docComment;method#mapToInt#0;class#Stream#0" />
+            <element signature="docComment;method#mapToLong#0;class#Stream#0" />
+            <element signature="docComment;method#mapToDouble#0;class#Stream#0" />
+            <element signature="docComment;method#flatMap#0;class#Stream#0" />
+            <element signature="docComment;method#flatMapToInt#0;class#Stream#0" />
+            <element signature="docComment;method#flatMapToLong#0;class#Stream#0" />
+            <element signature="docComment;method#flatMapToDouble#0;class#Stream#0" />
+            <element signature="docComment;method#distinct#0;class#Stream#0" />
+            <element signature="docComment;method#sorted#0;class#Stream#0" />
+            <element signature="docComment;method#sorted#1;class#Stream#0" />
+            <element signature="docComment;method#peek#0;class#Stream#0" />
+            <element signature="docComment;method#limit#0;class#Stream#0" />
+            <element signature="docComment;method#skip#0;class#Stream#0" />
+            <element signature="docComment;method#forEach#0;class#Stream#0" />
+            <element signature="docComment;method#forEachOrdered#0;class#Stream#0" />
+            <element signature="docComment;method#toArray#0;class#Stream#0" />
+            <element signature="docComment;method#toArray#1;class#Stream#0" />
+            <element signature="docComment;method#reduce#0;class#Stream#0" />
+            <element signature="docComment;method#reduce#1;class#Stream#0" />
+            <element signature="docComment;method#reduce#2;class#Stream#0" />
+            <element signature="docComment;method#collect#0;class#Stream#0" />
+            <element signature="docComment;method#collect#1;class#Stream#0" />
+            <element signature="docComment;method#min#0;class#Stream#0" />
+            <element signature="docComment;method#max#0;class#Stream#0" />
+            <element signature="docComment;method#count#0;class#Stream#0" />
+            <element signature="docComment;method#anyMatch#0;class#Stream#0" />
+            <element signature="docComment;method#allMatch#0;class#Stream#0" />
+            <element signature="docComment;method#noneMatch#0;class#Stream#0" />
+            <element signature="docComment;method#findFirst#0;class#Stream#0" />
+            <element signature="docComment;method#findAny#0;class#Stream#0" />
+            <element signature="docComment;method#builder#0;class#Stream#0" />
+            <element signature="docComment;method#empty#0;class#Stream#0" />
+            <element signature="docComment;method#of#0;class#Stream#0" />
+            <element signature="docComment;method#of#1;class#Stream#0" />
+            <element signature="e#45565#45577#0" />
+            <element signature="docComment;method#iterate#0;class#Stream#0" />
+            <element signature="class#46724:47068" />
+            <element signature="docComment;method#generate#0;class#Stream#0" />
+            <element signature="docComment;method#concat#0;class#Stream#0" />
+            <element signature="docComment;class#Builder#0;class#Stream#0" />
+            <element signature="class#Builder#0;class#Stream#0" />
+            <element signature="docComment;method#accept#0;class#Builder#0;class#Stream#0" />
+            <element signature="docComment;method#add#0;class#Builder#0;class#Stream#0" />
+            <element signature="docComment;method#build#0;class#Builder#0;class#Stream#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/function/DoubleFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/function/LongFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/jim/thread/TestThreadLocal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
           <folding>
             <element signature="method#main#0;class#TestThreadLocal#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jim/thread/ReadThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="method#run#0;class#ReadThread#0;class#ReadThreadTest#0" expanded="true" />
+            <element signature="method#run#0;class#Writethread#0;class#ReadThreadTest#0" expanded="true" />
+            <element signature="method#main#0;class#ReadThreadTest#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1590,24 +1540,206 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/jre/lib/rt.jar!/sun/misc/Unsafe.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        <state relative-caret-position="20">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/java.lang.ThreadLocal">
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/concurrent/atomic/AtomicLong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="81" column="32" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
+          <folding>
+            <element signature="docComment;class#AtomicLong#0" />
+            <element signature="docComment;field#VM_SUPPORTS_LONG_CAS#0;class#AtomicLong#0" />
+            <element signature="docComment;method#VMSupportsCS8#0;class#AtomicLong#0" />
+            <element signature="initializer##0;class#AtomicLong#0" expanded="true" />
+            <element signature="docComment;method#AtomicLong#0;class#AtomicLong#0" />
+            <element signature="docComment;method#AtomicLong#1;class#AtomicLong#0" />
+            <element signature="docComment;method#get#0;class#AtomicLong#0" />
+            <element signature="docComment;method#set#0;class#AtomicLong#0" />
+            <element signature="docComment;method#lazySet#0;class#AtomicLong#0" />
+            <element signature="docComment;method#getAndSet#0;class#AtomicLong#0" />
+            <element signature="docComment;method#compareAndSet#0;class#AtomicLong#0" />
+            <element signature="docComment;method#weakCompareAndSet#0;class#AtomicLong#0" />
+            <element signature="docComment;method#getAndIncrement#0;class#AtomicLong#0" />
+            <element signature="docComment;method#getAndDecrement#0;class#AtomicLong#0" />
+            <element signature="docComment;method#getAndAdd#0;class#AtomicLong#0" />
+            <element signature="docComment;method#incrementAndGet#0;class#AtomicLong#0" />
+            <element signature="docComment;method#decrementAndGet#0;class#AtomicLong#0" />
+            <element signature="docComment;method#addAndGet#0;class#AtomicLong#0" />
+            <element signature="docComment;method#getAndUpdate#0;class#AtomicLong#0" />
+            <element signature="e#6378#6468#1" />
+            <element signature="docComment;method#updateAndGet#0;class#AtomicLong#0" />
+            <element signature="e#7043#7133#1" />
+            <element signature="docComment;method#getAndAccumulate#0;class#AtomicLong#0" />
+            <element signature="e#7991#8089#1" />
+            <element signature="docComment;method#accumulateAndGet#0;class#AtomicLong#0" />
+            <element signature="e#8945#9043#1" />
+            <element signature="docComment;method#toString#0;class#AtomicLong#0" />
+            <element signature="docComment;method#intValue#0;class#AtomicLong#0" />
+            <element signature="docComment;method#longValue#0;class#AtomicLong#0" />
+            <element signature="docComment;method#floatValue#0;class#AtomicLong#0" />
+            <element signature="docComment;method#doubleValue#0;class#AtomicLong#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.concurrent.atomic.LongAdder">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>java.lang.ThreadLocal</OriginalElement>
+          <OriginalElement>java.util.concurrent.atomic.LongAdder</OriginalElement>
           <nodes>
-            <node x="0.0" y="0.0">java.lang.ThreadLocal</node>
+            <node x="27.0" y="240.0">java.util.concurrent.atomic.LongAdder</node>
+            <node x="4.5" y="80.0">java.lang.Number</node>
+            <node x="0.0" y="160.0">java.util.concurrent.atomic.Striped64</node>
+            <node x="27.5" y="0.0">java.io.Serializable</node>
           </nodes>
           <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="195.0" y="141.5" />
+          <edges>
+            <edge source="java.util.concurrent.atomic.LongAdder" target="java.util.concurrent.atomic.Striped64">
+              <point x="-28.5" y="-15.0" />
+              <point x="55.5" y="215.0" />
+              <point x="52.5" y="215.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.concurrent.atomic.LongAdder" target="java.io.Serializable">
+              <point x="28.5" y="-15.0" />
+              <point x="112.5" y="215.0" />
+              <point x="115.5" y="215.0" />
+              <point x="115.5" y="55.0" />
+              <point x="112.25" y="55.0" />
+              <point x="28.25" y="15.0" />
+            </edge>
+            <edge source="java.util.concurrent.atomic.Striped64" target="java.lang.Number">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.lang.Number" target="java.io.Serializable">
+              <point x="0.0" y="-15.0" />
+              <point x="52.5" y="55.0" />
+              <point x="55.75" y="55.0" />
+              <point x="-28.25" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="70.5" y="135.0" />
           <SelectedNodes>
-            <node>java.lang.ThreadLocal</node>
+            <node>java.util.concurrent.atomic.LongAdder</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="200" column="11" lean-forward="true" selection-start-line="200" selection-start-column="11" selection-end-line="200" selection-end-column="11" />
+          <folding>
+            <element signature="docComment;class#Random#0" />
+            <element signature="e#2428#2489#0" />
+            <element signature="e#2558#2751#0" />
+            <element signature="e#3265#3483#0" />
+            <element signature="e#3616#3673#0" />
+            <element signature="e#3752#3957#1" />
+            <element signature="e#4066#4539#0" />
+            <element signature="e#4687#4820#1" />
+            <element signature="e#4935#5856#0" />
+            <element signature="e#6002#7211#0" />
+            <element signature="e#7543#8250#0" />
+            <element signature="e#8550#8906#0" />
+            <element signature="e#9023#9662#1" />
+            <element signature="e#9188#9486#1" />
+            <element signature="e#9504#9652#1" />
+            <element signature="e#9692#10136#0" />
+            <element signature="e#10220#10575#1" />
+            <element signature="e#10281#10340#1" />
+            <element signature="e#10358#10565#1" />
+            <element signature="e#10437#10491#1" />
+            <element signature="e#10589#10630#1" />
+            <element signature="e#10642#10896#0" />
+            <element signature="e#11025#11216#1" />
+            <element signature="e#11246#11959#0" />
+            <element signature="e#12023#14878#0" />
+            <element signature="e#12023#15332#0" expanded="true" />
+            <element signature="e#15338#16122#0" />
+            <element signature="e#16273#17054#0" />
+            <element signature="e#17130#19046#0" />
+            <element signature="e#19135#21036#0" />
+            <element signature="e#21237#23317#0" />
+            <element signature="e#23454#23544#1" />
+            <element signature="e#23550#24013#1" />
+            <element signature="e#23597#23777#1" />
+            <element signature="e#24025#24089#0" />
+            <element signature="e#24159#24654#0" />
+            <element signature="e#24975#25402#0" />
+            <element signature="e#25626#26922#0" />
+            <element signature="e#27444#28750#0" />
+            <element signature="e#29147#29646#0" />
+            <element signature="e#29969#30401#0" />
+            <element signature="e#30627#32243#0" />
+            <element signature="e#32773#34407#0" />
+            <element signature="e#34810#35362#0" />
+            <element signature="e#35696#36196#0" />
+            <element signature="e#36433#37675#0" />
+            <element signature="e#38223#39439#0" />
+            <element signature="e#39856#40237#0" />
+            <element signature="e#39856#41993#0" />
+            <element signature="e#41369#41513#1" />
+            <element signature="e#41742#41977#1" />
+            <element signature="e#41865#41946#1" />
+            <element signature="e#41999#42047#0" />
+            <element signature="e#41999#43819#0" />
+            <element signature="e#43190#43335#1" />
+            <element signature="e#43565#43802#1" />
+            <element signature="e#43689#43771#1" />
+            <element signature="e#43825#43875#0" />
+            <element signature="e#43825#45676#0" />
+            <element signature="e#45040#45187#1" />
+            <element signature="e#45419#45660#1" />
+            <element signature="e#45545#45629#1" />
+            <element signature="e#45682#46017#0" />
+            <element signature="e#46284#46391#0" />
+            <element signature="e#46580#46622#0" />
+            <element signature="e#47051#47115#0" />
+            <element signature="e#47792#47910#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/jre/lib/rt.jar!/java/util/concurrent/ThreadLocalRandom.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.concurrent.ThreadLocalRandom">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent.ThreadLocalRandom</OriginalElement>
+          <nodes>
+            <node x="0.0" y="850.0">java.util.concurrent.ThreadLocalRandom</node>
+            <node x="0.0" y="80.0">java.util.Random</node>
+            <node x="110.0" y="0.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.concurrent.ThreadLocalRandom" target="java.util.Random">
+              <point x="0.0" y="-475.0" />
+              <point x="0.0" y="360.0" />
+            </edge>
+            <edge source="java.util.Random" target="java.io.Serializable">
+              <point x="0.0" y="-360.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-512.5" y="778.0" />
+          <SelectedNodes>
+            <node>java.io.Serializable</node>
           </SelectedNodes>
           <Categories>
             <Category>Methods</Category>
@@ -1617,15 +1749,249 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jim/thread/ReadThreadTest.java">
+    <entry file="file://$PROJECT_DIR$/src/jim/thread/TestForContent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        <state relative-caret-position="120">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
           <folding>
-            <element signature="method#run#0;class#ReadThread#0;class#ReadThreadTest#0" expanded="true" />
-            <element signature="method#run#0;class#Writethread#0;class#ReadThreadTest#0" expanded="true" />
-            <element signature="method#main#0;class#ReadThreadTest#0" expanded="true" />
+            <element signature="method#main#0;class#TestForContent#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jim/thread/Atomic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/concurrent/ThreadLocalRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="123" column="2" selection-start-line="123" selection-start-column="2" selection-end-line="123" selection-end-column="2" />
+          <folding>
+            <element signature="docComment;class#ThreadLocalRandom#0" />
+            <element signature="e#4831#4885#0" />
+            <element signature="e#4976#5034#0" />
+            <element signature="e#5116#5621#0" expanded="true" />
+            <element signature="e#5263#5520#1" />
+            <element signature="e#5627#5664#0" />
+            <element signature="e#5729#5789#0" />
+            <element signature="e#5854#5913#0" />
+            <element signature="e#6186#6249#0" />
+            <element signature="e#6706#6813#0" />
+            <element signature="e#6844#6893#0" />
+            <element signature="e#6996#7031#0" />
+            <element signature="e#7108#7462#0" />
+            <element signature="e#7108#7796#0" expanded="true" />
+            <element signature="e#7802#7945#0" />
+            <element signature="e#7802#8112#0" expanded="true" />
+            <element signature="e#8118#8299#0" />
+            <element signature="e#8480#8706#0" expanded="true" />
+            <element signature="e#9096#9452#0" />
+            <element signature="e#9576#10229#1" />
+            <element signature="e#9741#10046#1" />
+            <element signature="e#10064#10219#1" />
+            <element signature="e#10259#10566#0" />
+            <element signature="e#10685#11165#1" />
+            <element signature="e#10830#11030#1" />
+            <element signature="e#11048#11155#1" />
+            <element signature="e#11195#11449#0" />
+            <element signature="e#11599#11790#1" />
+            <element signature="e#11820#11935#0" />
+            <element signature="e#12008#12398#0" />
+            <element signature="e#12008#12875#0" expanded="true" />
+            <element signature="e#12881#13361#0" />
+            <element signature="e#13555#13672#0" />
+            <element signature="e#13747#14139#0" />
+            <element signature="e#14405#14600#1" />
+            <element signature="e#14630#15112#0" />
+            <element signature="e#15311#15544#0" />
+            <element signature="e#15646#16041#0" />
+            <element signature="e#16399#16871#0" />
+            <element signature="e#17082#17205#0" />
+            <element signature="e#17290#17521#0" />
+            <element signature="e#17780#17868#1" />
+            <element signature="e#17906#18070#1" />
+            <element signature="e#18271#18335#0" />
+            <element signature="e#18405#18766#0" />
+            <element signature="e#19061#19354#0" />
+            <element signature="e#19552#20320#0" />
+            <element signature="e#20816#21594#0" />
+            <element signature="e#21965#22328#0" />
+            <element signature="e#22625#22921#0" />
+            <element signature="e#23121#23884#0" />
+            <element signature="e#24388#25169#0" />
+            <element signature="e#25546#25958#0" />
+            <element signature="e#26266#26626#0" />
+            <element signature="e#26837#27650#0" />
+            <element signature="e#28172#28959#0" />
+            <element signature="e#29350#29731#0" />
+            <element signature="e#29350#31488#0" />
+            <element signature="e#30801#30969#1" />
+            <element signature="e#31198#31472#1" />
+            <element signature="e#31358#31441#1" />
+            <element signature="e#31494#31542#0" />
+            <element signature="e#31494#33315#0" />
+            <element signature="e#32623#32792#1" />
+            <element signature="e#33022#33298#1" />
+            <element signature="e#33183#33267#1" />
+            <element signature="e#33321#33371#0" />
+            <element signature="e#33321#35173#0" />
+            <element signature="e#34474#34645#1" />
+            <element signature="e#34877#35157#1" />
+            <element signature="e#35040#35126#1" />
+            <element signature="e#36103#36313#0" />
+            <element signature="e#36420#36526#0" />
+            <element signature="e#36772#36857#0" />
+            <element signature="e#37011#37114#1" />
+            <element signature="e#37128#37258#1" />
+            <element signature="e#37431#37592#0" />
+            <element signature="e#37796#37973#0" />
+            <element signature="e#38289#38463#0" />
+            <element signature="initializer##0;class#ThreadLocalRandom#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jim/thread/RandomTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="method#main#0;class#RandomTest#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/concurrent/atomic/LongAdder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="90" column="32" selection-start-line="90" selection-start-column="31" selection-end-line="90" selection-end-column="32" />
+          <folding>
+            <element signature="docComment;class#LongAdder#0" />
+            <element signature="docComment;method#LongAdder#0;class#LongAdder#0" />
+            <element signature="docComment;method#add#0;class#LongAdder#0" />
+            <element signature="docComment;method#increment#0;class#LongAdder#0" />
+            <element signature="docComment;method#decrement#0;class#LongAdder#0" />
+            <element signature="docComment;method#sum#0;class#LongAdder#0" />
+            <element signature="method#sum#0;class#LongAdder#0" expanded="true" />
+            <element signature="docComment;method#reset#0;class#LongAdder#0" />
+            <element signature="method#reset#0;class#LongAdder#0" expanded="true" />
+            <element signature="docComment;method#sumThenReset#0;class#LongAdder#0" />
+            <element signature="docComment;method#toString#0;class#LongAdder#0" />
+            <element signature="docComment;method#longValue#0;class#LongAdder#0" />
+            <element signature="docComment;method#intValue#0;class#LongAdder#0" />
+            <element signature="docComment;method#floatValue#0;class#LongAdder#0" />
+            <element signature="docComment;method#doubleValue#0;class#LongAdder#0" />
+            <element signature="docComment;class#SerializationProxy#0;class#LongAdder#0" />
+            <element signature="class#SerializationProxy#0;class#LongAdder#0" />
+            <element signature="docComment;field#value#0;class#SerializationProxy#0;class#LongAdder#0" />
+            <element signature="docComment;method#readResolve#0;class#SerializationProxy#0;class#LongAdder#0" />
+            <element signature="docComment;method#writeReplace#0;class#LongAdder#0" />
+            <element signature="docComment;method#readObject#0;class#LongAdder#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/concurrent/atomic/LongAccumulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="112" column="27" selection-start-line="112" selection-start-column="27" selection-end-line="112" selection-end-column="27" />
+          <folding>
+            <element signature="docComment;class#LongAccumulator#0" />
+            <element signature="docComment;method#LongAccumulator#0;class#LongAccumulator#0" />
+            <element signature="method#LongAccumulator#0;class#LongAccumulator#0" expanded="true" />
+            <element signature="docComment;method#accumulate#0;class#LongAccumulator#0" />
+            <element signature="docComment;method#get#0;class#LongAccumulator#0" />
+            <element signature="e#4260#4444#1" />
+            <element signature="e#4310#4434#1" />
+            <element signature="docComment;method#reset#0;class#LongAccumulator#0" />
+            <element signature="e#4955#5111#1" />
+            <element signature="e#5005#5101#1" />
+            <element signature="docComment;method#getThenReset#0;class#LongAccumulator#0" />
+            <element signature="e#5673#5949#1" />
+            <element signature="e#5723#5939#1" />
+            <element signature="e#5766#5925#1" />
+            <element signature="docComment;method#toString#0;class#LongAccumulator#0" />
+            <element signature="docComment;method#longValue#0;class#LongAccumulator#0" />
+            <element signature="docComment;method#intValue#0;class#LongAccumulator#0" />
+            <element signature="docComment;method#floatValue#0;class#LongAccumulator#0" />
+            <element signature="docComment;method#doubleValue#0;class#LongAccumulator#0" />
+            <element signature="docComment;class#SerializationProxy#0;class#LongAccumulator#0" />
+            <element signature="class#SerializationProxy#0;class#LongAccumulator#0" />
+            <element signature="docComment;field#value#0;class#SerializationProxy#0;class#LongAccumulator#0" />
+            <element signature="docComment;field#function#0;class#SerializationProxy#0;class#LongAccumulator#0" />
+            <element signature="docComment;field#identity#0;class#SerializationProxy#0;class#LongAccumulator#0" />
+            <element signature="docComment;method#readResolve#0;class#SerializationProxy#0;class#LongAccumulator#0" />
+            <element signature="docComment;method#writeReplace#0;class#LongAccumulator#0" />
+            <element signature="docComment;method#readObject#0;class#LongAccumulator#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/concurrent/atomic/Striped64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="213" column="59" selection-start-line="213" selection-start-column="57" selection-end-line="213" selection-end-column="59" />
+          <folding>
+            <element signature="docComment;class#Striped64#0" />
+            <element signature="docComment;class#Cell#0;class#Striped64#0" />
+            <element signature="class#Cell#0;class#Striped64#0" />
+            <element signature="method#Cell#0;class#Cell#0;class#Striped64#0" expanded="true" />
+            <element signature="initializer##0;class#Cell#0;class#Striped64#0" expanded="true" />
+            <element signature="docComment;field#NCPU#0;class#Striped64#0" />
+            <element signature="docComment;field#cells#0;class#Striped64#0" />
+            <element signature="docComment;field#base#0;class#Striped64#0" />
+            <element signature="docComment;field#cellsBusy#0;class#Striped64#0" />
+            <element signature="docComment;method#Striped64#0;class#Striped64#0" />
+            <element signature="docComment;method#casBase#0;class#Striped64#0" />
+            <element signature="e#6222#6223#0" expanded="true" />
+            <element signature="e#6292#6293#0" expanded="true" />
+            <element signature="docComment;method#casCellsBusy#0;class#Striped64#0" />
+            <element signature="e#6406#6407#0" expanded="true" />
+            <element signature="e#6476#6477#0" expanded="true" />
+            <element signature="docComment;method#getProbe#0;class#Striped64#0" />
+            <element signature="e#6658#6659#0" expanded="true" />
+            <element signature="e#6725#6726#0" expanded="true" />
+            <element signature="docComment;method#advanceProbe#0;class#Striped64#0" />
+            <element signature="method#longAccumulate#0;class#Striped64#0" expanded="true" />
+            <element signature="e#8248#9328#1" />
+            <element signature="e#8546#8985#0" />
+            <element signature="e#8821#8955#1" />
+            <element signature="e#8994#9072#0" />
+            <element signature="e#9922#10249#0" />
+            <element signature="e#10258#10320#0" />
+            <element signature="e#10574#11061#1" />
+            <element signature="docComment;method#doubleAccumulate#0;class#Striped64#0" />
+            <element signature="e#11720#11859#1" />
+            <element signature="e#11955#15680#1" />
+            <element signature="e#12064#14631#1" />
+            <element signature="e#12117#13198#1" />
+            <element signature="e#12159#13143#1" />
+            <element signature="e#12329#13121#1" />
+            <element signature="e#12416#12855#0" />
+            <element signature="e#12691#12825#1" />
+            <element signature="e#12864#12942#0" />
+            <element signature="e#14024#14580#1" />
+            <element signature="e#14050#14377#0" />
+            <element signature="e#14093#14355#1" />
+            <element signature="e#14386#14448#0" />
+            <element signature="e#14702#15217#1" />
+            <element signature="e#14762#15087#0" />
+            <element signature="e#14847#15069#1" />
+            <element signature="e#15096#15150#0" />
+            <element signature="e#15900#16346#0" />
+            <element signature="e#16367#16410#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="100" column="30" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="30" />
         </state>
       </provider>
     </entry>
