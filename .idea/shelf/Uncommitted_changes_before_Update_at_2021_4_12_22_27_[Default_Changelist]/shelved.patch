@@ -1,0 +1,956 @@
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectKey\">\r\n    <option name=\"state\" value=\"project://63537948-39a4-48a0-9c97-34259a0fa913\" />\r\n  </component>\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_1_8\" default=\"true\" project-jdk-name=\"1.8\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 3e1e9fbe26dcb1d45352ab02cd5bd4fa9f8eca42)
++++ b/.idea/misc.xml	(date 1617884927471)
+@@ -3,7 +3,7 @@
+   <component name="ProjectKey">
+     <option name="state" value="project://63537948-39a4-48a0-9c97-34259a0fa913" />
+   </component>
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"adb43b5f-c88d-490e-9597-0ef5e47ebdfc\" name=\"Default Changelist\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <ignored path=\"$PROJECT_DIR$/out/\" />\r\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"DatabaseView\">\r\n    <option name=\"SHOW_INTERMEDIATE\" value=\"true\" />\r\n    <option name=\"GROUP_DATA_SOURCES\" value=\"true\" />\r\n    <option name=\"GROUP_SCHEMA\" value=\"true\" />\r\n    <option name=\"GROUP_CONTENTS\" value=\"false\" />\r\n    <option name=\"SORT_POSITIONED\" value=\"false\" />\r\n    <option name=\"SHOW_EMPTY_GROUPS\" value=\"false\" />\r\n    <option name=\"AUTO_SCROLL_FROM_SOURCE\" value=\"false\" />\r\n    <option name=\"HIDDEN_KINDS\">\r\n      <set />\r\n    </option>\r\n    <expand />\r\n    <select />\r\n  </component>\r\n  <component name=\"FileEditorManager\">\r\n    <leaf SIDE_TABS_SIZE_LIMIT_KEY=\"300\">\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/HashMap.java\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"340\">\r\n              <caret line=\"147\" column=\"55\" selection-start-line=\"147\" selection-start-column=\"55\" selection-end-line=\"147\" selection-end-column=\"55\" />\r\n              <folding>\r\n                <element signature=\"docComment;class#HashMap#0\" />\r\n                <element signature=\"e#10630#10703#0\" />\r\n                <element signature=\"e#10775#10955#0\" />\r\n                <element signature=\"e#11010#11085#0\" />\r\n                <element signature=\"e#11143#11508#0\" />\r\n                <element signature=\"e#11558#11773#0\" />\r\n                <element signature=\"e#11825#12093#0\" />\r\n                <element signature=\"e#12147#12297#0\" />\r\n                <element signature=\"e#12147#13475#0\" />\r\n                <element signature=\"e#13219#13433#1\" />\r\n                <element signature=\"e#13541#14494#0\" />\r\n                <element signature=\"e#14631#14742#0\" />\r\n                <element signature=\"e#14831#15508#1\" />\r\n                <element signature=\"e#15053#15498#1\" />\r\n                <element signature=\"e#15107#15484#1\" />\r\n                <element signature=\"e#15541#15646#0\" />\r\n                <element signature=\"e#15902#15979#0\" />\r\n                <element signature=\"e#16303#16568#0\" />\r\n                <element signature=\"e#16607#16722#0\" />\r\n                <element signature=\"e#16772#16846#0\" />\r\n                <element signature=\"e#16876#17254#0\" />\r\n                <element signature=\"e#17288#17393#0\" />\r\n                <element signature=\"e#17647#17723#0\" />\r\n                <element signature=\"e#17818#18164#0\" />\r\n                <element signature=\"e#18791#19062#0\" />\r\n                <element signature=\"e#19168#19305#0\" />\r\n                <element signature=\"e#19417#19839#0\" />\r\n                <element signature=\"e#19985#20198#0\" />\r\n                <element signature=\"e#20323#20934#1\" />\r\n                <element signature=\"e#20356#20638#1\" />\r\n                <element signature=\"e#20772#20924#1\" />\r\n                <element signature=\"e#20946#21085#0\" />\r\n                <element signature=\"e#21142#21305#0\" />\r\n                <element signature=\"e#21374#22175#0\" />\r\n                <element signature=\"e#22310#22474#0\" />\r\n                <element signature=\"e#22696#23282#1\" />\r\n                <element signature=\"e#22911#23272#1\" />\r\n                <element signature=\"e#23053#23228#1\" />\r\n                <element signature=\"e#23315#23586#0\" />\r\n                <element signature=\"e#23691#24297#0\" />\r\n                <element signature=\"e#24403#24735#0\" />\r\n                <element signature=\"e#25106#26251#1\" />\r\n                <element signature=\"e#25408#25971#1\" />\r\n                <element signature=\"e#25463#25957#1\" />\r\n                <element signature=\"e#25511#25759#1\" />\r\n                <element signature=\"e#25999#26241#1\" />\r\n                <element signature=\"e#26393#26758#0\" />\r\n                <element signature=\"e#26975#27305#1\" />\r\n                <element signature=\"e#27021#27114#1\" />\r\n                <element signature=\"e#27421#27620#1\" />\r\n                <element signature=\"e#27646#27842#1\" />\r\n                <element signature=\"e#28035#29792#1\" />\r\n                <element signature=\"e#28082#29782#1\" />\r\n                <element signature=\"e#28158#29768#1\" />\r\n                <element signature=\"e#28449#29750#1\" />\r\n                <element signature=\"e#28664#29355#1\" />\r\n                <element signature=\"e#28765#29030#1\" />\r\n                <element signature=\"e#29064#29329#1\" />\r\n                <element signature=\"e#29428#29551#1\" />\r\n                <element signature=\"e#29596#29728#1\" />\r\n                <element signature=\"e#29827#29967#0\" />\r\n                <element signature=\"e#30208#30659#1\" />\r\n                <element signature=\"e#30273#30543#1\" />\r\n                <element signature=\"e#30420#30505#1\" />\r\n                <element signature=\"e#30671#30999#0\" />\r\n                <element signature=\"e#31101#31540#0\" />\r\n                <element signature=\"e#31712#32079#0\" />\r\n                <element signature=\"e#32385#33706#1\" />\r\n                <element signature=\"e#32610#33147#1\" />\r\n                <element signature=\"e#32746#33133#1\" />\r\n                <element signature=\"e#32771#33085#1\" />\r\n                <element signature=\"e#32932#33032#1\" />\r\n                <element signature=\"e#33295#33696#1\" />\r\n                <element signature=\"e#33739#33854#0\" />\r\n                <element signature=\"e#33973#34086#1\" />\r\n                <element signature=\"e#34098#34380#0\" />\r\n                <element signature=\"e#34507#34816#1\" />\r\n                <element signature=\"e#34558#34806#1\" />\r\n                <element signature=\"e#34626#34792#1\" />\r\n                <element signature=\"e#34850#35623#0\" />\r\n                <element signature=\"e#35705#35772#1\" />\r\n                <element signature=\"e#35803#36985#0\" />\r\n                <element signature=\"e#36629#36969#1\" />\r\n                <element signature=\"e#36719#36854#1\" />\r\n                <element signature=\"e#36991#37805#0\" />\r\n                <element signature=\"e#37901#37968#1\" />\r\n                <element signature=\"e#37999#39062#0\" />\r\n                <element signature=\"e#38704#39046#1\" />\r\n                <element signature=\"e#38794#38931#1\" />\r\n                <element signature=\"e#39068#39938#0\" />\r\n                <element signature=\"e#40101#41844#0\" />\r\n                <element signature=\"e#40837#41071#1\" />\r\n                <element signature=\"e#41492#41828#1\" />\r\n                <element signature=\"e#41582#41713#1\" />\r\n                <element signature=\"e#42569#42669#1\" />\r\n                <element signature=\"e#42824#42959#1\" />\r\n                <element signature=\"e#43560#44247#1\" />\r\n                <element signature=\"e#43695#44063#1\" />\r\n                <element signature=\"e#43758#44019#1\" />\r\n                <element signature=\"e#43882#43969#1\" />\r\n                <element signature=\"e#44151#44237#1\" />\r\n                <element signature=\"e#44313#44349#1\" />\r\n                <element signature=\"e#44372#44466#1\" />\r\n                <element signature=\"e#44559#44711#1\" />\r\n                <element signature=\"e#45179#45457#1\" />\r\n                <element signature=\"e#45266#45372#1\" />\r\n                <element signature=\"e#46059#46572#1\" />\r\n                <element signature=\"e#46194#46562#1\" />\r\n                <element signature=\"e#46257#46518#1\" />\r\n                <element signature=\"e#46381#46468#1\" />\r\n                <element signature=\"e#46707#46905#1\" />\r\n                <element signature=\"e#46736#46820#1\" />\r\n                <element signature=\"e#46934#47295#1\" />\r\n                <element signature=\"e#47035#47203#1\" />\r\n                <element signature=\"e#47972#48485#1\" />\r\n                <element signature=\"e#48107#48475#1\" />\r\n                <element signature=\"e#48170#48431#1\" />\r\n                <element signature=\"e#48294#48381#1\" />\r\n                <element signature=\"e#48511#48890#1\" />\r\n                <element signature=\"e#48699#48783#1\" />\r\n                <element signature=\"e#48918#49287#1\" />\r\n                <element signature=\"e#49023#49195#1\" />\r\n                <element signature=\"e#49544#49861#1\" />\r\n                <element signature=\"e#49626#49758#1\" />\r\n                <element signature=\"e#50116#50464#1\" />\r\n                <element signature=\"e#50198#50361#1\" />\r\n                <element signature=\"e#50266#50347#1\" />\r\n                <element signature=\"e#50581#50760#0\" />\r\n                <element signature=\"e#50765#50795#0\" />\r\n                <element signature=\"e#50879#50940#0\" />\r\n                <element signature=\"e#50978#51090#0\" />\r\n                <element signature=\"e#51474#51996#0\" />\r\n                <element signature=\"e#52319#52587#0\" />\r\n                <element signature=\"e#53345#54765#1\" />\r\n                <element signature=\"e#53347#53373#0\" />\r\n                <element signature=\"e#54029#54093#0\" />\r\n                <element signature=\"e#54487#54755#1\" />\r\n                <element signature=\"e#54866#56424#0\" />\r\n                <element signature=\"e#55293#55413#1\" />\r\n                <element signature=\"e#55868#55962#1\" />\r\n                <element signature=\"e#56430#56570#0\" />\r\n                <element signature=\"e#56576#56720#0\" />\r\n                <element signature=\"e#56726#56890#0\" />\r\n                <element signature=\"e#56988#58229#0\" />\r\n                <element signature=\"e#57833#58067#1\" />\r\n                <element signature=\"e#58235#60945#0\" />\r\n                <element signature=\"e#59138#59266#1\" />\r\n                <element signature=\"e#59449#59910#1\" />\r\n                <element signature=\"e#59541#59764#1\" />\r\n                <element signature=\"e#59641#59746#1\" />\r\n                <element signature=\"e#60207#60739#1\" />\r\n                <element signature=\"e#60263#60725#1\" />\r\n                <element signature=\"e#60379#60707#1\" />\r\n                <element signature=\"e#60951#63638#0\" />\r\n                <element signature=\"e#61866#61994#1\" />\r\n                <element signature=\"e#62177#62640#1\" />\r\n                <element signature=\"e#62269#62494#1\" />\r\n                <element signature=\"e#62369#62476#1\" />\r\n                <element signature=\"e#62937#63471#1\" />\r\n                <element signature=\"e#62993#63457#1\" />\r\n                <element signature=\"e#63109#63439#1\" />\r\n                <element signature=\"e#63644#66405#0\" />\r\n                <element signature=\"e#64585#64713#1\" />\r\n                <element signature=\"e#64896#65353#1\" />\r\n                <element signature=\"e#64988#65207#1\" />\r\n                <element signature=\"e#65088#65189#1\" />\r\n                <element signature=\"e#65663#66199#1\" />\r\n                <element signature=\"e#65719#66185#1\" />\r\n                <element signature=\"e#65835#66167#1\" />\r\n                <element signature=\"e#67494#67577#0\" />\r\n                <element signature=\"e#68174#68422#1\" />\r\n                <element signature=\"e#68225#68412#1\" />\r\n                <element signature=\"e#68293#68398#1\" />\r\n                <element signature=\"e#68523#68695#0\" />\r\n                <element signature=\"e#68523#91532#0\" />\r\n                <element signature=\"e#69090#69159#0\" />\r\n                <element signature=\"e#69243#69355#1\" />\r\n                <element signature=\"e#69375#69459#0\" />\r\n                <element signature=\"e#69629#70320#1\" />\r\n                <element signature=\"e#69780#70260#1\" />\r\n                <element signature=\"e#70340#70529#0\" />\r\n                <element signature=\"e#70646#71477#1\" />\r\n                <element signature=\"e#71541#71593#0\" />\r\n                <element signature=\"e#71744#72072#0\" />\r\n                <element signature=\"e#72443#72516#0\" />\r\n                <element signature=\"e#72670#74101#1\" />\r\n                <element signature=\"e#72793#72914#1\" />\r\n                <element signature=\"e#72936#74087#1\" />\r\n                <element signature=\"e#73098#74069#1\" />\r\n                <element signature=\"e#73714#74047#1\" />\r\n                <element signature=\"e#74161#74269#0\" />\r\n                <element signature=\"e#74428#74641#1\" />\r\n                <element signature=\"e#74684#74734#0\" />\r\n                <element signature=\"e#75047#76640#1\" />\r\n                <element signature=\"e#75496#75983#1\" />\r\n                <element signature=\"e#75533#75917#1\" />\r\n                <element signature=\"e#76088#76626#1\" />\r\n                <element signature=\"e#76660#77256#0\" />\r\n                <element signature=\"e#78176#78280#1\" />\r\n                <element signature=\"e#78395#79774#1\" />\r\n                <element signature=\"e#78725#78838#1\" />\r\n                <element signature=\"e#78860#79242#1\" />\r\n                <element signature=\"e#78960#79137#1\" />\r\n                <element signature=\"e#79993#80345#1\" />\r\n                <element signature=\"e#80463#80782#1\" />\r\n                <element signature=\"e#80586#80768#1\" />\r\n                <element signature=\"e#80868#81290#0\" />\r\n                <element signature=\"e#81679#82295#1\" />\r\n                <element signature=\"e#81799#82029#1\" />\r\n                <element signature=\"e#82051#82281#1\" />\r\n                <element signature=\"e#82329#82645#1\" />\r\n                <element signature=\"e#82455#82631#1\" />\r\n                <element signature=\"e#82678#82975#1\" />\r\n                <element signature=\"e#82810#82961#1\" />\r\n                <element signature=\"e#83339#83727#1\" />\r\n                <element signature=\"e#83985#84375#1\" />\r\n                <element signature=\"e#84635#86571#1\" />\r\n                <element signature=\"e#84682#84766#1\" />\r\n                <element signature=\"e#84908#85729#1\" />\r\n                <element signature=\"e#84974#85152#1\" />\r\n                <element signature=\"e#85178#85711#1\" />\r\n                <element signature=\"e#85223#85389#1\" />\r\n                <element signature=\"e#85430#85689#1\" />\r\n                <element signature=\"e#85521#85663#1\" />\r\n                <element signature=\"e#85751#86557#1\" />\r\n                <element signature=\"e#85803#85981#1\" />\r\n                <element signature=\"e#86007#86539#1\" />\r\n                <element signature=\"e#86051#86218#1\" />\r\n                <element signature=\"e#86259#86517#1\" />\r\n                <element signature=\"e#86350#86491#1\" />\r\n                <element signature=\"e#86771#90530#1\" />\r\n                <element signature=\"e#86900#86984#1\" />\r\n                <element signature=\"e#87017#87104#1\" />\r\n                <element signature=\"e#87152#88824#1\" />\r\n                <element signature=\"e#87215#87444#1\" />\r\n                <element signature=\"e#87539#88806#1\" />\r\n                <element signature=\"e#87718#87825#1\" />\r\n                <element signature=\"e#87855#88784#1\" />\r\n                <element signature=\"e#87912#88271#1\" />\r\n                <element signature=\"e#88317#88535#1\" />\r\n                <element signature=\"e#88580#88720#1\" />\r\n                <element signature=\"e#88846#90516#1\" />\r\n                <element signature=\"e#88909#89138#1\" />\r\n                <element signature=\"e#89233#90498#1\" />\r\n                <element signature=\"e#89412#89519#1\" />\r\n                <element signature=\"e#89549#90476#1\" />\r\n                <element signature=\"e#89606#89963#1\" />\r\n                <element signature=\"e#90009#90226#1\" />\r\n                <element signature=\"e#90271#90412#1\" />\r\n                <element signature=\"e#90550#90602#0\" />\r\n              </folding>\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/lang/ThreadLocal.java\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"1800\">\r\n              <caret line=\"412\" column=\"51\" selection-start-line=\"412\" selection-start-column=\"51\" selection-end-line=\"412\" selection-end-column=\"51\" />\r\n              <folding>\r\n                <element signature=\"docComment;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;field#threadLocalHashCode#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;field#nextHashCode#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;field#HASH_INCREMENT#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;method#nextHashCode#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;method#initialValue#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;method#withInitial#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;method#ThreadLocal#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;method#get#0;class#ThreadLocal#0\" />\r\n                <element signature=\"e#5542#5770#1\" />\r\n                <element signature=\"e#5628#5760#1\" />\r\n                <element signature=\"docComment;method#setInitialValue#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;method#set#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;method#remove#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;method#getMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;method#createMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;method#createInheritedMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;method#childValue#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;class#SuppliedThreadLocal#0;class#ThreadLocal#0\" />\r\n                <element signature=\"class#SuppliedThreadLocal#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;field#value#0;class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"method#Entry#0;class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" expanded=\"true\" />\r\n                <element signature=\"docComment;field#INITIAL_CAPACITY#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;field#table#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;field#size#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;field#threshold#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;method#setThreshold#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;method#nextIndex#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;method#prevIndex#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;method#ThreadLocalMap#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;method#ThreadLocalMap#1;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"e#12918#13575#1\" />\r\n                <element signature=\"e#12993#13561#1\" />\r\n                <element signature=\"e#13160#13543#1\" />\r\n                <element signature=\"docComment;method#getEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"method#getEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" expanded=\"true\" />\r\n                <element signature=\"docComment;method#getEntryAfterMiss#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"e#14890#15174#1\" />\r\n                <element signature=\"docComment;method#set#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"e#15456#15514#0\" />\r\n                <element signature=\"e#15941#16250#1\" />\r\n                <element signature=\"e#16018#16102#1\" />\r\n                <element signature=\"e#16135#16236#1\" />\r\n                <element signature=\"docComment;method#remove#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"e#16766#16938#1\" />\r\n                <element signature=\"e#16804#16924#1\" />\r\n                <element signature=\"docComment;method#replaceStaleEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"e#17888#17945#0\" />\r\n                <element signature=\"e#18418#18480#0\" />\r\n                <element signature=\"e#18640#19787#1\" />\r\n                <element signature=\"e#18703#18745#0\" />\r\n                <element signature=\"e#19062#19478#1\" />\r\n                <element signature=\"e#19496#19550#0\" />\r\n                <element signature=\"docComment;method#expungeStaleEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"e#21147#21830#1\" />\r\n                <element signature=\"e#21224#21342#1\" />\r\n                <element signature=\"e#21348#21816#1\" />\r\n                <element signature=\"e#21445#21798#1\" />\r\n                <element signature=\"e#21511#21562#0\" />\r\n                <element signature=\"docComment;method#cleanSomeSlots#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"e#23311#23580#1\" />\r\n                <element signature=\"e#23436#23566#1\" />\r\n                <element signature=\"docComment;method#rehash#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"docComment;method#resize#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"e#24430#24970#1\" />\r\n                <element signature=\"e#24500#24956#1\" />\r\n                <element signature=\"e#24585#24663#1\" />\r\n                <element signature=\"e#24669#24938#1\" />\r\n                <element signature=\"docComment;method#expungeStaleEntries#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n                <element signature=\"e#25300#25441#1\" />\r\n              </folding>\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/lang/InheritableThreadLocal.java\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"480\">\r\n              <caret line=\"47\" column=\"13\" selection-start-line=\"47\" selection-start-column=\"13\" selection-end-line=\"47\" selection-end-column=\"13\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/src/jim/thread/TestThreadLocal.java\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"80\">\r\n              <caret line=\"4\" column=\"17\" selection-start-line=\"4\" selection-start-column=\"17\" selection-end-line=\"4\" selection-end-column=\"17\" />\r\n              <folding>\r\n                <element signature=\"method#main#0;class#TestThreadLocal#0\" expanded=\"true\" />\r\n              </folding>\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"true\">\r\n        <entry file=\"file://$PROJECT_DIR$/src/jim/thread/ReadThreadTest.java\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"478\">\r\n              <caret line=\"29\" column=\"28\" selection-start-line=\"29\" selection-start-column=\"28\" selection-end-line=\"29\" selection-end-column=\"28\" />\r\n              <folding>\r\n                <element signature=\"method#run#0;class#ReadThread#0;class#ReadThreadTest#0\" expanded=\"true\" />\r\n                <element signature=\"method#run#0;class#Writethread#0;class#ReadThreadTest#0\" expanded=\"true\" />\r\n                <element signature=\"method#main#0;class#ReadThreadTest#0\" expanded=\"true\" />\r\n              </folding>\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/nio/DirectLongBufferU.java\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"460\">\r\n              <caret line=\"48\" column=\"51\" selection-start-line=\"48\" selection-start-column=\"51\" selection-end-line=\"48\" selection-end-column=\"51\" />\r\n              <folding>\r\n                <element signature=\"imports\" expanded=\"true\" />\r\n              </folding>\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/nio/Bits.java\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"4520\">\r\n              <caret line=\"562\" column=\"18\" selection-start-line=\"562\" selection-start-column=\"18\" selection-end-line=\"562\" selection-end-column=\"18\" />\r\n              <folding>\r\n                <element signature=\"e#15112#15113#0\" expanded=\"true\" />\r\n                <element signature=\"e#15141#15142#0\" expanded=\"true\" />\r\n              </folding>\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/src/jim/thread/TestUnSafe.java\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"360\">\r\n              <caret line=\"18\" column=\"13\" selection-start-line=\"18\" selection-start-column=\"13\" selection-end-line=\"18\" selection-end-column=\"13\" />\r\n              <folding>\r\n                <element signature=\"imports\" expanded=\"true\" />\r\n                <element signature=\"method#main#0;class#TestUnSafe#0\" expanded=\"true\" />\r\n              </folding>\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"jar://$PROJECT_DIR$/../JAVA/JDK/jre/lib/rt.jar!/sun/misc/Unsafe.class\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"680\">\r\n              <caret line=\"42\" column=\"25\" selection-start-line=\"42\" selection-start-column=\"25\" selection-end-line=\"42\" selection-end-column=\"25\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"uml://JAVA/java.lang.ThreadLocal\">\r\n          <provider selected=\"true\" editor-type-id=\"UmlEditorProvider\">\r\n            <state>\r\n              <ID>JAVA</ID>\r\n              <OriginalElement>java.lang.ThreadLocal</OriginalElement>\r\n              <nodes>\r\n                <node x=\"0.0\" y=\"0.0\">java.lang.ThreadLocal</node>\r\n              </nodes>\r\n              <notes />\r\n              <edges />\r\n              <settings layout=\"Hierarchic Group\" zoom=\"1.0\" x=\"195.0\" y=\"141.5\" />\r\n              <SelectedNodes>\r\n                <node>java.lang.ThreadLocal</node>\r\n              </SelectedNodes>\r\n              <Categories>\r\n                <Category>Methods</Category>\r\n              </Categories>\r\n              <SCOPE>All</SCOPE>\r\n              <VISIBILITY>private</VISIBILITY>\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n    </leaf>\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"FindInProjectRecents\">\r\n    <findStrings>\r\n      <find>name</find>\r\n      <find>setN</find>\r\n      <find>set</find>\r\n      <find>Unsafe</find>\r\n    </findStrings>\r\n    <dirStrings>\r\n      <dir>D:\\DevInstall\\JAVA\\JDK\\jre\\lib\\rt.jar</dir>\r\n    </dirStrings>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"IdeDocumentHistory\">\r\n    <option name=\"CHANGED_PATHS\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/RunableTask.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/ThreadTest.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/ThreadTest2.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/Thread3.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/TestWait.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/WaitNotifyInterupt.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/TestOntifyAll.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/TestJoin.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/TestJoinInterrupt.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/SleepTest2.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/SleepInterruptTest.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/YieldTest.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/TestIsInterrupt.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/TestInterrupt2.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/TestInterrupted.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/DeadLockTest.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/UserThreadTest.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/ThreadLocalTest.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/TestThreadLocal.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/TestUnSafe.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/ReadThread.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/jim/thread/ReadThreadTest.java\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectFrameBounds\" extendedState=\"6\">\r\n    <option name=\"x\" value=\"1270\" />\r\n    <option name=\"width\" value=\"1300\" />\r\n    <option name=\"height\" value=\"1400\" />\r\n  </component>\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectView\">\r\n    <navigator proportions=\"\" version=\"1\">\r\n      <foldersAlwaysOnTop value=\"true\" />\r\n    </navigator>\r\n    <panes>\r\n      <pane id=\"PackagesPane\" />\r\n      <pane id=\"Scope\" />\r\n      <pane id=\"ProjectPane\">\r\n        <subPane>\r\n          <expand>\r\n            <path>\r\n              <item name=\"study\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"study\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"study\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"study\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"study\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"study\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"thread\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"study\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"External Libraries\" type=\"cb654da1:ExternalLibrariesNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"study\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"External Libraries\" type=\"cb654da1:ExternalLibrariesNode\" />\r\n              <item name=\"&lt; 1.8 &gt;\" type=\"70bed36:NamedLibraryElementNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"study\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"External Libraries\" type=\"cb654da1:ExternalLibrariesNode\" />\r\n              <item name=\"&lt; 1.8 &gt;\" type=\"70bed36:NamedLibraryElementNode\" />\r\n              <item name=\"rt.jar\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"study\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"External Libraries\" type=\"cb654da1:ExternalLibrariesNode\" />\r\n              <item name=\"&lt; 1.8 &gt;\" type=\"70bed36:NamedLibraryElementNode\" />\r\n              <item name=\"rt.jar\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"sun\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"study\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"External Libraries\" type=\"cb654da1:ExternalLibrariesNode\" />\r\n              <item name=\"&lt; 1.8 &gt;\" type=\"70bed36:NamedLibraryElementNode\" />\r\n              <item name=\"rt.jar\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"sun\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"misc\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n          </expand>\r\n          <select />\r\n        </subPane>\r\n      </pane>\r\n    </panes>\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\r\n    <property name=\"com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp\" value=\"1617704298397\" />\r\n    <property name=\"project.structure.last.edited\" value=\"Artifacts\" />\r\n    <property name=\"project.structure.proportion\" value=\"0.0\" />\r\n    <property name=\"project.structure.side.proportion\" value=\"0.2\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"project.propVCSSupport.Confirmation\" />\r\n  </component>\r\n  <component name=\"RunDashboard\">\r\n    <option name=\"ruleStates\">\r\n      <list>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\r\n        </RuleState>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\r\n        </RuleState>\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.ReadThreadTest\">\r\n    <configuration name=\"ReadThreadTest\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"jim.thread.ReadThreadTest\" />\r\n      <module name=\"study\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"jim.thread.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"TestThreadLocal\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"jim.thread.TestThreadLocal\" />\r\n      <module name=\"study\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"jim.thread.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"TestUnSafe\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"jim.thread.TestUnSafe\" />\r\n      <module name=\"study\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"jim.thread.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"ThreadLocalTest\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"jim.thread.ThreadLocalTest\" />\r\n      <module name=\"study\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"jim.thread.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"UserThreadTest\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"jim.thread.UserThreadTest\" />\r\n      <module name=\"study\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"jim.thread.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <list>\r\n      <item itemvalue=\"Application.UserThreadTest\" />\r\n      <item itemvalue=\"Application.ThreadLocalTest\" />\r\n      <item itemvalue=\"Application.TestThreadLocal\" />\r\n      <item itemvalue=\"Application.TestUnSafe\" />\r\n      <item itemvalue=\"Application.ReadThreadTest\" />\r\n    </list>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.ReadThreadTest\" />\r\n        <item itemvalue=\"Application.TestUnSafe\" />\r\n        <item itemvalue=\"Application.TestThreadLocal\" />\r\n        <item itemvalue=\"Application.ThreadLocalTest\" />\r\n        <item itemvalue=\"Application.UserThreadTest\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"adb43b5f-c88d-490e-9597-0ef5e47ebdfc\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1617072916591</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1617072916591</updated>\r\n      <workItem from=\"1617072919594\" duration=\"22480000\" />\r\n      <workItem from=\"1617247166208\" duration=\"12077000\" />\r\n      <workItem from=\"1617675429334\" duration=\"3042000\" />\r\n      <workItem from=\"1617695024558\" duration=\"5012000\" />\r\n      <workItem from=\"1617704092535\" duration=\"69000\" />\r\n      <workItem from=\"1617704170144\" duration=\"651000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TimeTrackingManager\">\r\n    <option name=\"totallyTimeSpent\" value=\"43331000\" />\r\n  </component>\r\n  <component name=\"ToolWindowManager\">\r\n    <frame x=\"-7\" y=\"-7\" width=\"2062\" height=\"1126\" extended-state=\"6\" />\r\n    <layout>\r\n      <window_info content_ui=\"combo\" id=\"Project\" order=\"0\" visible=\"true\" weight=\"0.18213573\" />\r\n      <window_info id=\"Structure\" order=\"1\" side_tool=\"true\" weight=\"0.25\" />\r\n      <window_info id=\"Designer\" order=\"2\" />\r\n      <window_info id=\"Image Layers\" order=\"3\" />\r\n      <window_info id=\"Capture Tool\" order=\"4\" />\r\n      <window_info id=\"UI Designer\" order=\"5\" />\r\n      <window_info id=\"Favorites\" order=\"6\" side_tool=\"true\" />\r\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"0\" />\r\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"1\" />\r\n      <window_info active=\"true\" anchor=\"bottom\" id=\"Run\" order=\"2\" visible=\"true\" weight=\"0.40847984\" />\r\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"3\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"4\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"5\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"6\" />\r\n      <window_info anchor=\"bottom\" id=\"Terminal\" order=\"7\" weight=\"0.10858325\" />\r\n      <window_info anchor=\"bottom\" id=\"Docker\" order=\"8\" show_stripe_button=\"false\" />\r\n      <window_info anchor=\"bottom\" id=\"Event Log\" order=\"9\" side_tool=\"true\" />\r\n      <window_info anchor=\"bottom\" id=\"Messages\" order=\"10\" />\r\n      <window_info anchor=\"bottom\" id=\"Database Changes\" order=\"11\" />\r\n      <window_info anchor=\"bottom\" id=\"Version Control\" order=\"12\" />\r\n      <window_info anchor=\"bottom\" id=\"Tail\" order=\"13\" />\r\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"0\" type=\"SLIDING\" weight=\"0.4\" />\r\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" id=\"Maven\" order=\"3\" />\r\n      <window_info anchor=\"right\" id=\"Palette\" order=\"4\" />\r\n      <window_info anchor=\"right\" id=\"leetcode\" order=\"5\" side_tool=\"true\" />\r\n      <window_info anchor=\"right\" id=\"Capture Analysis\" order=\"6\" />\r\n      <window_info anchor=\"right\" id=\"Word Book\" order=\"7\" side_tool=\"true\" />\r\n      <window_info anchor=\"right\" id=\"Database\" order=\"8\" />\r\n      <window_info anchor=\"right\" id=\"Palette&#9;\" order=\"9\" />\r\n      <window_info anchor=\"right\" id=\"Theme Preview\" order=\"10\" />\r\n      <window_info anchor=\"right\" id=\"RestServices\" order=\"11\" />\r\n    </layout>\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"1\" />\r\n  </component>\r\n  <component name=\"editorHistoryManager\">\r\n    <entry file=\"jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/lang/Runnable.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"303\">\r\n          <caret line=\"55\" column=\"17\" selection-start-line=\"55\" selection-start-column=\"17\" selection-end-line=\"55\" selection-end-column=\"17\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/jim/thread/ThreadTest.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"-1\">\r\n          <caret column=\"19\" lean-forward=\"true\" selection-start-column=\"19\" selection-end-column=\"19\" />\r\n          <folding>\r\n            <element signature=\"e#212#213#0\" expanded=\"true\" />\r\n            <element signature=\"e#247#248#0\" expanded=\"true\" />\r\n            <element signature=\"method#run#0;class#MyThread#0;class#ThreadTest#0\" expanded=\"true\" />\r\n            <element signature=\"method#main#0;class#ThreadTest#0\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/jim/thread/ThreadTest2.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"320\">\r\n          <caret line=\"16\" column=\"5\" lean-forward=\"true\" selection-start-line=\"16\" selection-start-column=\"5\" selection-end-line=\"16\" selection-end-column=\"5\" />\r\n          <folding>\r\n            <element signature=\"method#run#0;class#RunableTask#0;class#ThreadTest2#0\" expanded=\"true\" />\r\n            <element signature=\"method#main#0;class#ThreadTest2#0\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/Main.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"80\">\r\n          <caret line=\"6\" selection-start-line=\"6\" selection-end-line=\"6\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"uml://JAVA/jim.thread.Thread3.CallerTask\">\r\n      <provider selected=\"true\" editor-type-id=\"UmlEditorProvider\">\r\n        <state>\r\n          <ID>JAVA</ID>\r\n          <OriginalElement>jim.thread.Thread3.CallerTask</OriginalElement>\r\n          <nodes>\r\n            <node x=\"\" y=\"\">java.lang.FunctionalInterface</node>\r\n            <node x=\"\" y=\"\">java.util.concurrent.Callable</node>\r\n            <node x=\"\" y=\"\">jim.thread.Thread3.CallerTask</node>\r\n          </nodes>\r\n          <notes />\r\n          <edges />\r\n          <settings layout=\"Hierarchic Group\" zoom=\"1.0\" x=\"80.0\" y=\"95.0\" />\r\n          <SelectedNodes />\r\n          <Categories />\r\n          <SCOPE>All</SCOPE>\r\n          <VISIBILITY>private</VISIBILITY>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/jim/thread/Thread3.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"357\">\r\n          <caret line=\"26\" column=\"40\" lean-forward=\"true\" selection-start-line=\"26\" selection-start-column=\"40\" selection-end-line=\"26\" selection-end-column=\"40\" />\r\n          <folding>\r\n            <element signature=\"imports\" expanded=\"true\" />\r\n            <element signature=\"method#call#0;class#CallerTask#0;class#Thread3#0\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/jim/thread/WaitNotifyInterupt.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"399\">\r\n          <caret line=\"26\" column=\"13\" lean-forward=\"true\" selection-start-line=\"26\" selection-start-column=\"13\" selection-end-line=\"26\" selection-end-column=\"13\" />\r\n          <folding>\r\n            <element signature=\"method#run#0;class#236:388\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/jim/thread/TestWait.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"140\">\r\n          <caret line=\"7\" column=\"31\" lean-forward=\"true\" selection-start-line=\"7\" selection-start-column=\"31\" selection-end-line=\"7\" selection-end-column=\"31\" />\r\n          <folding>\r\n            <element signature=\"method#main#0;class#TestWait#0\" expanded=\"true\" />\r\n            <element signature=\"method#run#0;class#296:467\" expanded=\"true\" />\r\n            <element signature=\"method#run#0;class#962:1105\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"uml://JAVA/java.lang.Object\">\r\n      <provider selected=\"true\" editor-type-id=\"UmlEditorProvider\">\r\n        <state>\r\n          <ID>JAVA</ID>\r\n          <OriginalElement>java.lang.Object</OriginalElement>\r\n          <nodes>\r\n            <node x=\"0.0\" y=\"0.0\">java.lang.Object</node>\r\n          </nodes>\r\n          <notes />\r\n          <edges />\r\n          <settings layout=\"Hierarchic Group\" zoom=\"1.0\" x=\"-596.0\" y=\"-83.0\" />\r\n          <SelectedNodes>\r\n            <node>java.lang.Object</node>\r\n          </SelectedNodes>\r\n          <Categories>\r\n            <Category>Methods</Category>\r\n          </Categories>\r\n          <SCOPE>All</SCOPE>\r\n          <VISIBILITY>private</VISIBILITY>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/lang/Object.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"540\">\r\n          <caret line=\"271\" selection-start-line=\"271\" selection-end-line=\"271\" />\r\n          <folding>\r\n            <element signature=\"docComment;class#Object#0\" />\r\n            <element signature=\"docComment;method#getClass#0;class#Object#0\" />\r\n            <element signature=\"docComment;method#hashCode#0;class#Object#0\" />\r\n            <element signature=\"docComment;method#equals#0;class#Object#0\" />\r\n            <element signature=\"docComment;method#clone#0;class#Object#0\" />\r\n            <element signature=\"docComment;method#toString#0;class#Object#0\" />\r\n            <element signature=\"docComment;method#notify#0;class#Object#0\" />\r\n            <element signature=\"docComment;method#notifyAll#0;class#Object#0\" />\r\n            <element signature=\"docComment;method#wait#0;class#Object#0\" />\r\n            <element signature=\"docComment;method#wait#1;class#Object#0\" />\r\n            <element signature=\"e#20682#20770#1\" />\r\n            <element signature=\"e#20813#20946#1\" />\r\n            <element signature=\"e#20971#21005#1\" />\r\n            <element signature=\"docComment;method#wait#2;class#Object#0\" />\r\n            <element signature=\"docComment;method#finalize#0;class#Object#0\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/jim/thread/TestOntifyAll.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state>\r\n          <caret column=\"19\" selection-start-column=\"19\" selection-end-column=\"19\" />\r\n          <folding>\r\n            <element signature=\"method#main#0;class#TestOntifyAll#0\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/jim/thread/TestJoin.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"380\">\r\n          <caret line=\"24\" column=\"39\" selection-start-line=\"24\" selection-start-column=\"39\" selection-end-line=\"24\" selection-end-column=\"39\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/jim/thread/TestJoinInterrupt.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"640\">\r\n          <caret line=\"38\" column=\"42\" selection-start-line=\"38\" selection-start-column=\"42\" selection-end-line=\"38\" selection-end-column=\"42\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/jim/thread/SleepTest2.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"520\">\r\n          <caret line=\"28\" column=\"18\" selection-start-line=\"20\" selection-start-column=\"16\" selection-end-line=\"28\" selection-end-column=\"18\" />\r\n          <folding>\r\n            <element signature=\"imports\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/jim/thread/YieldTest.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"500\">\r\n          <caret line=\"25\" selection-start-line=\"25\" selection-end-line=\"25\" />\r\n          <folding>\r\n            <element signature=\"method#YieldTest#0;class#YieldTest#0\" expanded=\"true\" />\r\n            <element signature=\"method#run#0;class#YieldTest#0\" expanded=\"true\" />\r\n            <element signature=\"method#main#0;class#YieldTest#0\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/jim/thread/TestIsInterrupt.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"479\">\r\n          <caret line=\"28\" column=\"35\" lean-forward=\"true\" selection-start-line=\"28\" selection-start-column=\"35\" selection-end-line=\"28\" selection-end-column=\"35\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/jim/thread/TestInterrupt2.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"479\">\r\n          <caret line=\"30\" column=\"32\" selection-start-line=\"30\" selection-start-column=\"32\" selection-end-line=\"30\" selection-end-column=\"32\" />\r\n          <folding>\r\n            <element signature=\"method#run#0;class#181:357\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/jim/thread/TestInterrupted.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"340\">\r\n          <caret line=\"23\" lean-forward=\"true\" selection-start-line=\"23\" selection-end-line=\"23\" />\r\n          <folding>\r\n            <element signature=\"method#run#0;class#210:402\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/jim/thread/SleepInterruptTest.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"340\">\r\n          <caret line=\"27\" column=\"23\" selection-start-line=\"27\" selection-start-column=\"23\" selection-end-line=\"27\" selection-end-column=\"23\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"uml://JAVA/java.lang.Thread\">\r\n      <provider selected=\"true\" editor-type-id=\"UmlEditorProvider\">\r\n        <state>\r\n          <ID>JAVA</ID>\r\n          <OriginalElement>java.lang.Thread</OriginalElement>\r\n          <nodes>\r\n            <node x=\"272.0\" y=\"0.0\">java.lang.FunctionalInterface</node>\r\n            <node x=\"0.0\" y=\"183.0\">java.lang.Thread</node>\r\n            <node x=\"289.5\" y=\"80.0\">java.lang.Runnable</node>\r\n          </nodes>\r\n          <notes />\r\n          <edges>\r\n            <edge source=\"java.lang.Runnable\" target=\"java.lang.FunctionalInterface\">\r\n              <point x=\"0.0\" y=\"-26.5\" />\r\n              <point x=\"0.0\" y=\"15.0\" />\r\n            </edge>\r\n            <edge source=\"java.lang.Thread\" target=\"java.lang.Runnable\">\r\n              <point x=\"0.0\" y=\"-751.0\" />\r\n              <point x=\"0.0\" y=\"26.5\" />\r\n            </edge>\r\n          </edges>\r\n          <settings layout=\"Hierarchic Group\" zoom=\"0.28152492668621704\" x=\"352.0\" y=\"842.0\" />\r\n          <SelectedNodes>\r\n            <node>java.lang.Thread</node>\r\n            <node>java.lang.Runnable</node>\r\n          </SelectedNodes>\r\n          <Categories>\r\n            <Category>Methods</Category>\r\n          </Categories>\r\n          <SCOPE>All</SCOPE>\r\n          <VISIBILITY>private</VISIBILITY>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/lang/Thread.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"720\">\r\n          <caret line=\"169\" selection-start-line=\"169\" selection-end-line=\"169\" />\r\n          <folding>\r\n            <element signature=\"docComment;class#Thread#0\" />\r\n            <element signature=\"e#6729#6990#0\" />\r\n            <element signature=\"e#7499#7535#0\" />\r\n            <element signature=\"e#7547#7610#0\" />\r\n            <element signature=\"e#7661#7730#0\" />\r\n            <element signature=\"e#7783#7846#0\" />\r\n            <element signature=\"e#7899#8034#0\" />\r\n            <element signature=\"e#8089#8879#0\" />\r\n            <element signature=\"e#8924#9636#0\" />\r\n            <element signature=\"e#9720#10656#0\" />\r\n            <element signature=\"e#10768#10856#1\" />\r\n            <element signature=\"e#10899#11032#1\" />\r\n            <element signature=\"e#11094#11127#1\" />\r\n            <element signature=\"e#11163#11322#0\" />\r\n            <element signature=\"e#11495#12088#0\" />\r\n            <element signature=\"e#12299#12377#1\" />\r\n            <element signature=\"e#12534#13009#1\" />\r\n            <element signature=\"e#12726#12788#1\" />\r\n            <element signature=\"e#12939#12999#1\" />\r\n            <element signature=\"e#13241#13391#1\" />\r\n            <element signature=\"e#13288#13381#1\" />\r\n            <element signature=\"e#14290#14498#0\" />\r\n            <element signature=\"e#14637#14999#0\" />\r\n            <element signature=\"e#15091#15668#0\" />\r\n            <element signature=\"e#15777#15903#0\" />\r\n            <element signature=\"e#16043#17191#0\" />\r\n            <element signature=\"e#17320#17587#0\" />\r\n            <element signature=\"e#17667#18527#0\" />\r\n            <element signature=\"e#18627#19083#0\" />\r\n            <element signature=\"e#21526#25393#0\" />\r\n            <element signature=\"e#25554#26264#0\" />\r\n            <element signature=\"e#26987#27048#0\" />\r\n            <element signature=\"e#27057#27363#0\" />\r\n            <element signature=\"e#27075#27191#0\" />\r\n            <element signature=\"e#27107#27177#1\" />\r\n            <element signature=\"e#27410#27848#0\" />\r\n            <element signature=\"e#27915#27952#1\" />\r\n            <element signature=\"e#27964#28089#0\" />\r\n            <element signature=\"e#28143#28222#1\" />\r\n            <element signature=\"e#28570#32175#0\" />\r\n            <element signature=\"e#32317#32503#1\" />\r\n            <element signature=\"e#32394#32493#1\" />\r\n            <element signature=\"e#32512#32575#0\" />\r\n            <element signature=\"e#32652#32740#1\" />\r\n            <element signature=\"e#32834#33516#0\" />\r\n            <element signature=\"e#33652#35481#0\" />\r\n            <element signature=\"e#35619#35845#0\" />\r\n            <element signature=\"e#35687#35835#1\" />\r\n            <element signature=\"e#35879#36668#0\" />\r\n            <element signature=\"e#36774#37268#0\" />\r\n            <element signature=\"e#37597#38578#0\" />\r\n            <element signature=\"e#38673#38904#0\" />\r\n            <element signature=\"e#38953#40204#0\" />\r\n            <element signature=\"e#40309#41224#0\" />\r\n            <element signature=\"e#41327#42330#0\" />\r\n            <element signature=\"e#42500#42561#1\" />\r\n            <element signature=\"e#42605#42782#1\" />\r\n            <element signature=\"e#42657#42722#1\" />\r\n            <element signature=\"e#42794#42920#0\" />\r\n            <element signature=\"e#42994#43511#0\" />\r\n            <element signature=\"e#43619#43697#1\" />\r\n            <element signature=\"e#43756#43800#1\" />\r\n            <element signature=\"e#43812#43934#0\" />\r\n            <element signature=\"e#44003#44206#0\" />\r\n            <element signature=\"e#44288#45102#0\" />\r\n            <element signature=\"e#45215#46491#0\" />\r\n            <element signature=\"e#46621#47090#0\" />\r\n            <element signature=\"e#47154#48046#0\" />\r\n            <element signature=\"e#48229#48317#1\" />\r\n            <element signature=\"e#48344#48426#1\" />\r\n            <element signature=\"e#48376#48416#1\" />\r\n            <element signature=\"e#48432#48697#1\" />\r\n            <element signature=\"e#48464#48687#1\" />\r\n            <element signature=\"e#48541#48587#1\" />\r\n            <element signature=\"e#48709#49761#0\" />\r\n            <element signature=\"e#49885#49973#1\" />\r\n            <element signature=\"e#50016#50149#1\" />\r\n            <element signature=\"e#50211#50244#1\" />\r\n            <element signature=\"e#50279#50763#0\" />\r\n            <element signature=\"e#50851#51040#0\" />\r\n            <element signature=\"e#51145#51788#0\" />\r\n            <element signature=\"e#51881#51945#1\" />\r\n            <element signature=\"e#51978#52195#0\" />\r\n            <element signature=\"e#52268#52761#0\" />\r\n            <element signature=\"e#52894#52945#1\" />\r\n            <element signature=\"e#52957#53150#0\" />\r\n            <element signature=\"e#53255#53387#1\" />\r\n            <element signature=\"e#53393#53513#1\" />\r\n            <element signature=\"e#53525#54835#0\" />\r\n            <element signature=\"e#55053#55216#1\" />\r\n            <element signature=\"e#55263#56259#0\" />\r\n            <element signature=\"e#56398#56489#1\" />\r\n            <element signature=\"e#56534#57125#0\" />\r\n            <element signature=\"e#57287#58949#0\" />\r\n            <element signature=\"e#59043#59978#1\" />\r\n            <element signature=\"e#59197#59321#1\" />\r\n            <element signature=\"e#59334#59396#0\" />\r\n            <element signature=\"e#59480#59537#1\" />\r\n            <element signature=\"e#59701#59769#0\" />\r\n            <element signature=\"e#59874#59937#1\" />\r\n            <element signature=\"e#59984#60103#1\" />\r\n            <element signature=\"e#60115#61698#0\" />\r\n            <element signature=\"e#61912#62128#1\" />\r\n            <element signature=\"e#62410#62637#1\" />\r\n            <element signature=\"e#62504#62566#1\" />\r\n            <element signature=\"e#62828#62875#0\" />\r\n            <element signature=\"e#62828#63347#0\" />\r\n            <element signature=\"e#63014#63061#0\" />\r\n            <element signature=\"e#63184#63237#0\" />\r\n            <element signature=\"e#63353#63645#0\" />\r\n            <element signature=\"e#63998#64126#1\" />\r\n            <element signature=\"e#64177#64404#0\" />\r\n            <element signature=\"e#64772#65371#1\" />\r\n            <element signature=\"e#64802#64970#0\" />\r\n            <element signature=\"e#65060#65288#0\" />\r\n            <element signature=\"e#65635#65987#0\" />\r\n            <element signature=\"e#66045#67251#0\" />\r\n            <element signature=\"e#66045#69689#0\" />\r\n            <element signature=\"e#67284#67363#0\" />\r\n            <element signature=\"e#67386#67641#0\" />\r\n            <element signature=\"e#67669#67986#0\" />\r\n            <element signature=\"e#68013#68885#0\" />\r\n            <element signature=\"e#68912#69519#0\" />\r\n            <element signature=\"e#69552#69663#0\" />\r\n            <element signature=\"e#69695#69922#0\" />\r\n            <element signature=\"e#70081#71152#0\" />\r\n            <element signature=\"e#70081#71588#0\" />\r\n            <element signature=\"e#71234#71527#0\" />\r\n            <element signature=\"e#71822#73501#0\" />\r\n            <element signature=\"e#73673#73815#1\" />\r\n            <element signature=\"e#73876#74205#0\" />\r\n            <element signature=\"e#74346#74775#0\" />\r\n            <element signature=\"e#74951#75686#0\" />\r\n            <element signature=\"e#75835#75961#0\" />\r\n            <element signature=\"e#76097#76220#0\" />\r\n            <element signature=\"e#76490#76530#1\" />\r\n            <element signature=\"e#76542#76590#0\" />\r\n            <element signature=\"e#76542#78010#0\" />\r\n            <element signature=\"e#76663#76821#0\" />\r\n            <element signature=\"e#76863#76972#0\" />\r\n            <element signature=\"e#77144#77227#0\" />\r\n            <element signature=\"e#77322#77610#0\" />\r\n            <element signature=\"e#77777#77943#1\" />\r\n            <element signature=\"e#77949#77994#1\" />\r\n            <element signature=\"e#78017#78086#0\" />\r\n            <element signature=\"e#78353#78400#0\" />\r\n            <element signature=\"e#78469#78538#0\" />\r\n            <element signature=\"e#78607#78676#0\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/jim/thread/DeadLockTest.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"400\">\r\n          <caret line=\"22\" selection-start-line=\"22\" selection-end-line=\"22\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/jim/thread/UserThreadTest.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"280\">\r\n          <caret line=\"17\" column=\"29\" selection-start-line=\"17\" selection-start-column=\"29\" selection-end-line=\"17\" selection-end-column=\"29\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/jim/thread/ThreadLocalTest.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"360\">\r\n          <caret line=\"24\" column=\"11\" selection-start-line=\"24\" selection-start-column=\"11\" selection-end-line=\"24\" selection-end-column=\"11\" />\r\n          <folding>\r\n            <element signature=\"method#print#0;class#ThreadLocalTest#0\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/HashMap.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"340\">\r\n          <caret line=\"147\" column=\"55\" selection-start-line=\"147\" selection-start-column=\"55\" selection-end-line=\"147\" selection-end-column=\"55\" />\r\n          <folding>\r\n            <element signature=\"docComment;class#HashMap#0\" />\r\n            <element signature=\"e#10630#10703#0\" />\r\n            <element signature=\"e#10775#10955#0\" />\r\n            <element signature=\"e#11010#11085#0\" />\r\n            <element signature=\"e#11143#11508#0\" />\r\n            <element signature=\"e#11558#11773#0\" />\r\n            <element signature=\"e#11825#12093#0\" />\r\n            <element signature=\"e#12147#12297#0\" />\r\n            <element signature=\"e#12147#13475#0\" />\r\n            <element signature=\"e#13219#13433#1\" />\r\n            <element signature=\"e#13541#14494#0\" />\r\n            <element signature=\"e#14631#14742#0\" />\r\n            <element signature=\"e#14831#15508#1\" />\r\n            <element signature=\"e#15053#15498#1\" />\r\n            <element signature=\"e#15107#15484#1\" />\r\n            <element signature=\"e#15541#15646#0\" />\r\n            <element signature=\"e#15902#15979#0\" />\r\n            <element signature=\"e#16303#16568#0\" />\r\n            <element signature=\"e#16607#16722#0\" />\r\n            <element signature=\"e#16772#16846#0\" />\r\n            <element signature=\"e#16876#17254#0\" />\r\n            <element signature=\"e#17288#17393#0\" />\r\n            <element signature=\"e#17647#17723#0\" />\r\n            <element signature=\"e#17818#18164#0\" />\r\n            <element signature=\"e#18791#19062#0\" />\r\n            <element signature=\"e#19168#19305#0\" />\r\n            <element signature=\"e#19417#19839#0\" />\r\n            <element signature=\"e#19985#20198#0\" />\r\n            <element signature=\"e#20323#20934#1\" />\r\n            <element signature=\"e#20356#20638#1\" />\r\n            <element signature=\"e#20772#20924#1\" />\r\n            <element signature=\"e#20946#21085#0\" />\r\n            <element signature=\"e#21142#21305#0\" />\r\n            <element signature=\"e#21374#22175#0\" />\r\n            <element signature=\"e#22310#22474#0\" />\r\n            <element signature=\"e#22696#23282#1\" />\r\n            <element signature=\"e#22911#23272#1\" />\r\n            <element signature=\"e#23053#23228#1\" />\r\n            <element signature=\"e#23315#23586#0\" />\r\n            <element signature=\"e#23691#24297#0\" />\r\n            <element signature=\"e#24403#24735#0\" />\r\n            <element signature=\"e#25106#26251#1\" />\r\n            <element signature=\"e#25408#25971#1\" />\r\n            <element signature=\"e#25463#25957#1\" />\r\n            <element signature=\"e#25511#25759#1\" />\r\n            <element signature=\"e#25999#26241#1\" />\r\n            <element signature=\"e#26393#26758#0\" />\r\n            <element signature=\"e#26975#27305#1\" />\r\n            <element signature=\"e#27021#27114#1\" />\r\n            <element signature=\"e#27421#27620#1\" />\r\n            <element signature=\"e#27646#27842#1\" />\r\n            <element signature=\"e#28035#29792#1\" />\r\n            <element signature=\"e#28082#29782#1\" />\r\n            <element signature=\"e#28158#29768#1\" />\r\n            <element signature=\"e#28449#29750#1\" />\r\n            <element signature=\"e#28664#29355#1\" />\r\n            <element signature=\"e#28765#29030#1\" />\r\n            <element signature=\"e#29064#29329#1\" />\r\n            <element signature=\"e#29428#29551#1\" />\r\n            <element signature=\"e#29596#29728#1\" />\r\n            <element signature=\"e#29827#29967#0\" />\r\n            <element signature=\"e#30208#30659#1\" />\r\n            <element signature=\"e#30273#30543#1\" />\r\n            <element signature=\"e#30420#30505#1\" />\r\n            <element signature=\"e#30671#30999#0\" />\r\n            <element signature=\"e#31101#31540#0\" />\r\n            <element signature=\"e#31712#32079#0\" />\r\n            <element signature=\"e#32385#33706#1\" />\r\n            <element signature=\"e#32610#33147#1\" />\r\n            <element signature=\"e#32746#33133#1\" />\r\n            <element signature=\"e#32771#33085#1\" />\r\n            <element signature=\"e#32932#33032#1\" />\r\n            <element signature=\"e#33295#33696#1\" />\r\n            <element signature=\"e#33739#33854#0\" />\r\n            <element signature=\"e#33973#34086#1\" />\r\n            <element signature=\"e#34098#34380#0\" />\r\n            <element signature=\"e#34507#34816#1\" />\r\n            <element signature=\"e#34558#34806#1\" />\r\n            <element signature=\"e#34626#34792#1\" />\r\n            <element signature=\"e#34850#35623#0\" />\r\n            <element signature=\"e#35705#35772#1\" />\r\n            <element signature=\"e#35803#36985#0\" />\r\n            <element signature=\"e#36629#36969#1\" />\r\n            <element signature=\"e#36719#36854#1\" />\r\n            <element signature=\"e#36991#37805#0\" />\r\n            <element signature=\"e#37901#37968#1\" />\r\n            <element signature=\"e#37999#39062#0\" />\r\n            <element signature=\"e#38704#39046#1\" />\r\n            <element signature=\"e#38794#38931#1\" />\r\n            <element signature=\"e#39068#39938#0\" />\r\n            <element signature=\"e#40101#41844#0\" />\r\n            <element signature=\"e#40837#41071#1\" />\r\n            <element signature=\"e#41492#41828#1\" />\r\n            <element signature=\"e#41582#41713#1\" />\r\n            <element signature=\"e#42569#42669#1\" />\r\n            <element signature=\"e#42824#42959#1\" />\r\n            <element signature=\"e#43560#44247#1\" />\r\n            <element signature=\"e#43695#44063#1\" />\r\n            <element signature=\"e#43758#44019#1\" />\r\n            <element signature=\"e#43882#43969#1\" />\r\n            <element signature=\"e#44151#44237#1\" />\r\n            <element signature=\"e#44313#44349#1\" />\r\n            <element signature=\"e#44372#44466#1\" />\r\n            <element signature=\"e#44559#44711#1\" />\r\n            <element signature=\"e#45179#45457#1\" />\r\n            <element signature=\"e#45266#45372#1\" />\r\n            <element signature=\"e#46059#46572#1\" />\r\n            <element signature=\"e#46194#46562#1\" />\r\n            <element signature=\"e#46257#46518#1\" />\r\n            <element signature=\"e#46381#46468#1\" />\r\n            <element signature=\"e#46707#46905#1\" />\r\n            <element signature=\"e#46736#46820#1\" />\r\n            <element signature=\"e#46934#47295#1\" />\r\n            <element signature=\"e#47035#47203#1\" />\r\n            <element signature=\"e#47972#48485#1\" />\r\n            <element signature=\"e#48107#48475#1\" />\r\n            <element signature=\"e#48170#48431#1\" />\r\n            <element signature=\"e#48294#48381#1\" />\r\n            <element signature=\"e#48511#48890#1\" />\r\n            <element signature=\"e#48699#48783#1\" />\r\n            <element signature=\"e#48918#49287#1\" />\r\n            <element signature=\"e#49023#49195#1\" />\r\n            <element signature=\"e#49544#49861#1\" />\r\n            <element signature=\"e#49626#49758#1\" />\r\n            <element signature=\"e#50116#50464#1\" />\r\n            <element signature=\"e#50198#50361#1\" />\r\n            <element signature=\"e#50266#50347#1\" />\r\n            <element signature=\"e#50581#50760#0\" />\r\n            <element signature=\"e#50765#50795#0\" />\r\n            <element signature=\"e#50879#50940#0\" />\r\n            <element signature=\"e#50978#51090#0\" />\r\n            <element signature=\"e#51474#51996#0\" />\r\n            <element signature=\"e#52319#52587#0\" />\r\n            <element signature=\"e#53345#54765#1\" />\r\n            <element signature=\"e#53347#53373#0\" />\r\n            <element signature=\"e#54029#54093#0\" />\r\n            <element signature=\"e#54487#54755#1\" />\r\n            <element signature=\"e#54866#56424#0\" />\r\n            <element signature=\"e#55293#55413#1\" />\r\n            <element signature=\"e#55868#55962#1\" />\r\n            <element signature=\"e#56430#56570#0\" />\r\n            <element signature=\"e#56576#56720#0\" />\r\n            <element signature=\"e#56726#56890#0\" />\r\n            <element signature=\"e#56988#58229#0\" />\r\n            <element signature=\"e#57833#58067#1\" />\r\n            <element signature=\"e#58235#60945#0\" />\r\n            <element signature=\"e#59138#59266#1\" />\r\n            <element signature=\"e#59449#59910#1\" />\r\n            <element signature=\"e#59541#59764#1\" />\r\n            <element signature=\"e#59641#59746#1\" />\r\n            <element signature=\"e#60207#60739#1\" />\r\n            <element signature=\"e#60263#60725#1\" />\r\n            <element signature=\"e#60379#60707#1\" />\r\n            <element signature=\"e#60951#63638#0\" />\r\n            <element signature=\"e#61866#61994#1\" />\r\n            <element signature=\"e#62177#62640#1\" />\r\n            <element signature=\"e#62269#62494#1\" />\r\n            <element signature=\"e#62369#62476#1\" />\r\n            <element signature=\"e#62937#63471#1\" />\r\n            <element signature=\"e#62993#63457#1\" />\r\n            <element signature=\"e#63109#63439#1\" />\r\n            <element signature=\"e#63644#66405#0\" />\r\n            <element signature=\"e#64585#64713#1\" />\r\n            <element signature=\"e#64896#65353#1\" />\r\n            <element signature=\"e#64988#65207#1\" />\r\n            <element signature=\"e#65088#65189#1\" />\r\n            <element signature=\"e#65663#66199#1\" />\r\n            <element signature=\"e#65719#66185#1\" />\r\n            <element signature=\"e#65835#66167#1\" />\r\n            <element signature=\"e#67494#67577#0\" />\r\n            <element signature=\"e#68174#68422#1\" />\r\n            <element signature=\"e#68225#68412#1\" />\r\n            <element signature=\"e#68293#68398#1\" />\r\n            <element signature=\"e#68523#68695#0\" />\r\n            <element signature=\"e#68523#91532#0\" />\r\n            <element signature=\"e#69090#69159#0\" />\r\n            <element signature=\"e#69243#69355#1\" />\r\n            <element signature=\"e#69375#69459#0\" />\r\n            <element signature=\"e#69629#70320#1\" />\r\n            <element signature=\"e#69780#70260#1\" />\r\n            <element signature=\"e#70340#70529#0\" />\r\n            <element signature=\"e#70646#71477#1\" />\r\n            <element signature=\"e#71541#71593#0\" />\r\n            <element signature=\"e#71744#72072#0\" />\r\n            <element signature=\"e#72443#72516#0\" />\r\n            <element signature=\"e#72670#74101#1\" />\r\n            <element signature=\"e#72793#72914#1\" />\r\n            <element signature=\"e#72936#74087#1\" />\r\n            <element signature=\"e#73098#74069#1\" />\r\n            <element signature=\"e#73714#74047#1\" />\r\n            <element signature=\"e#74161#74269#0\" />\r\n            <element signature=\"e#74428#74641#1\" />\r\n            <element signature=\"e#74684#74734#0\" />\r\n            <element signature=\"e#75047#76640#1\" />\r\n            <element signature=\"e#75496#75983#1\" />\r\n            <element signature=\"e#75533#75917#1\" />\r\n            <element signature=\"e#76088#76626#1\" />\r\n            <element signature=\"e#76660#77256#0\" />\r\n            <element signature=\"e#78176#78280#1\" />\r\n            <element signature=\"e#78395#79774#1\" />\r\n            <element signature=\"e#78725#78838#1\" />\r\n            <element signature=\"e#78860#79242#1\" />\r\n            <element signature=\"e#78960#79137#1\" />\r\n            <element signature=\"e#79993#80345#1\" />\r\n            <element signature=\"e#80463#80782#1\" />\r\n            <element signature=\"e#80586#80768#1\" />\r\n            <element signature=\"e#80868#81290#0\" />\r\n            <element signature=\"e#81679#82295#1\" />\r\n            <element signature=\"e#81799#82029#1\" />\r\n            <element signature=\"e#82051#82281#1\" />\r\n            <element signature=\"e#82329#82645#1\" />\r\n            <element signature=\"e#82455#82631#1\" />\r\n            <element signature=\"e#82678#82975#1\" />\r\n            <element signature=\"e#82810#82961#1\" />\r\n            <element signature=\"e#83339#83727#1\" />\r\n            <element signature=\"e#83985#84375#1\" />\r\n            <element signature=\"e#84635#86571#1\" />\r\n            <element signature=\"e#84682#84766#1\" />\r\n            <element signature=\"e#84908#85729#1\" />\r\n            <element signature=\"e#84974#85152#1\" />\r\n            <element signature=\"e#85178#85711#1\" />\r\n            <element signature=\"e#85223#85389#1\" />\r\n            <element signature=\"e#85430#85689#1\" />\r\n            <element signature=\"e#85521#85663#1\" />\r\n            <element signature=\"e#85751#86557#1\" />\r\n            <element signature=\"e#85803#85981#1\" />\r\n            <element signature=\"e#86007#86539#1\" />\r\n            <element signature=\"e#86051#86218#1\" />\r\n            <element signature=\"e#86259#86517#1\" />\r\n            <element signature=\"e#86350#86491#1\" />\r\n            <element signature=\"e#86771#90530#1\" />\r\n            <element signature=\"e#86900#86984#1\" />\r\n            <element signature=\"e#87017#87104#1\" />\r\n            <element signature=\"e#87152#88824#1\" />\r\n            <element signature=\"e#87215#87444#1\" />\r\n            <element signature=\"e#87539#88806#1\" />\r\n            <element signature=\"e#87718#87825#1\" />\r\n            <element signature=\"e#87855#88784#1\" />\r\n            <element signature=\"e#87912#88271#1\" />\r\n            <element signature=\"e#88317#88535#1\" />\r\n            <element signature=\"e#88580#88720#1\" />\r\n            <element signature=\"e#88846#90516#1\" />\r\n            <element signature=\"e#88909#89138#1\" />\r\n            <element signature=\"e#89233#90498#1\" />\r\n            <element signature=\"e#89412#89519#1\" />\r\n            <element signature=\"e#89549#90476#1\" />\r\n            <element signature=\"e#89606#89963#1\" />\r\n            <element signature=\"e#90009#90226#1\" />\r\n            <element signature=\"e#90271#90412#1\" />\r\n            <element signature=\"e#90550#90602#0\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/lang/ThreadLocal.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"1800\">\r\n          <caret line=\"412\" column=\"51\" selection-start-line=\"412\" selection-start-column=\"51\" selection-end-line=\"412\" selection-end-column=\"51\" />\r\n          <folding>\r\n            <element signature=\"docComment;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;field#threadLocalHashCode#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;field#nextHashCode#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;field#HASH_INCREMENT#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;method#nextHashCode#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;method#initialValue#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;method#withInitial#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;method#ThreadLocal#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;method#get#0;class#ThreadLocal#0\" />\r\n            <element signature=\"e#5542#5770#1\" />\r\n            <element signature=\"e#5628#5760#1\" />\r\n            <element signature=\"docComment;method#setInitialValue#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;method#set#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;method#remove#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;method#getMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;method#createMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;method#createInheritedMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;method#childValue#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;class#SuppliedThreadLocal#0;class#ThreadLocal#0\" />\r\n            <element signature=\"class#SuppliedThreadLocal#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;field#value#0;class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"method#Entry#0;class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" expanded=\"true\" />\r\n            <element signature=\"docComment;field#INITIAL_CAPACITY#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;field#table#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;field#size#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;field#threshold#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;method#setThreshold#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;method#nextIndex#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;method#prevIndex#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;method#ThreadLocalMap#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;method#ThreadLocalMap#1;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"e#12918#13575#1\" />\r\n            <element signature=\"e#12993#13561#1\" />\r\n            <element signature=\"e#13160#13543#1\" />\r\n            <element signature=\"docComment;method#getEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"method#getEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" expanded=\"true\" />\r\n            <element signature=\"docComment;method#getEntryAfterMiss#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"e#14890#15174#1\" />\r\n            <element signature=\"docComment;method#set#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"e#15456#15514#0\" />\r\n            <element signature=\"e#15941#16250#1\" />\r\n            <element signature=\"e#16018#16102#1\" />\r\n            <element signature=\"e#16135#16236#1\" />\r\n            <element signature=\"docComment;method#remove#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"e#16766#16938#1\" />\r\n            <element signature=\"e#16804#16924#1\" />\r\n            <element signature=\"docComment;method#replaceStaleEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"e#17888#17945#0\" />\r\n            <element signature=\"e#18418#18480#0\" />\r\n            <element signature=\"e#18640#19787#1\" />\r\n            <element signature=\"e#18703#18745#0\" />\r\n            <element signature=\"e#19062#19478#1\" />\r\n            <element signature=\"e#19496#19550#0\" />\r\n            <element signature=\"docComment;method#expungeStaleEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"e#21147#21830#1\" />\r\n            <element signature=\"e#21224#21342#1\" />\r\n            <element signature=\"e#21348#21816#1\" />\r\n            <element signature=\"e#21445#21798#1\" />\r\n            <element signature=\"e#21511#21562#0\" />\r\n            <element signature=\"docComment;method#cleanSomeSlots#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"e#23311#23580#1\" />\r\n            <element signature=\"e#23436#23566#1\" />\r\n            <element signature=\"docComment;method#rehash#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"docComment;method#resize#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"e#24430#24970#1\" />\r\n            <element signature=\"e#24500#24956#1\" />\r\n            <element signature=\"e#24585#24663#1\" />\r\n            <element signature=\"e#24669#24938#1\" />\r\n            <element signature=\"docComment;method#expungeStaleEntries#0;class#ThreadLocalMap#0;class#ThreadLocal#0\" />\r\n            <element signature=\"e#25300#25441#1\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/lang/InheritableThreadLocal.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"480\">\r\n          <caret line=\"47\" column=\"13\" selection-start-line=\"47\" selection-start-column=\"13\" selection-end-line=\"47\" selection-end-column=\"13\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/jim/thread/TestThreadLocal.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"80\">\r\n          <caret line=\"4\" column=\"17\" selection-start-line=\"4\" selection-start-column=\"17\" selection-end-line=\"4\" selection-end-column=\"17\" />\r\n          <folding>\r\n            <element signature=\"method#main#0;class#TestThreadLocal#0\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/nio/DirectLongBufferU.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"460\">\r\n          <caret line=\"48\" column=\"51\" selection-start-line=\"48\" selection-start-column=\"51\" selection-end-line=\"48\" selection-end-column=\"51\" />\r\n          <folding>\r\n            <element signature=\"imports\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/nio/Bits.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"4520\">\r\n          <caret line=\"562\" column=\"18\" selection-start-line=\"562\" selection-start-column=\"18\" selection-end-line=\"562\" selection-end-column=\"18\" />\r\n          <folding>\r\n            <element signature=\"e#15112#15113#0\" expanded=\"true\" />\r\n            <element signature=\"e#15141#15142#0\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/jim/thread/TestUnSafe.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"360\">\r\n          <caret line=\"18\" column=\"13\" selection-start-line=\"18\" selection-start-column=\"13\" selection-end-line=\"18\" selection-end-column=\"13\" />\r\n          <folding>\r\n            <element signature=\"imports\" expanded=\"true\" />\r\n            <element signature=\"method#main#0;class#TestUnSafe#0\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"jar://$PROJECT_DIR$/../JAVA/JDK/jre/lib/rt.jar!/sun/misc/Unsafe.class\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"680\">\r\n          <caret line=\"42\" column=\"25\" selection-start-line=\"42\" selection-start-column=\"25\" selection-end-line=\"42\" selection-end-column=\"25\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"uml://JAVA/java.lang.ThreadLocal\">\r\n      <provider selected=\"true\" editor-type-id=\"UmlEditorProvider\">\r\n        <state>\r\n          <ID>JAVA</ID>\r\n          <OriginalElement>java.lang.ThreadLocal</OriginalElement>\r\n          <nodes>\r\n            <node x=\"0.0\" y=\"0.0\">java.lang.ThreadLocal</node>\r\n          </nodes>\r\n          <notes />\r\n          <edges />\r\n          <settings layout=\"Hierarchic Group\" zoom=\"1.0\" x=\"195.0\" y=\"141.5\" />\r\n          <SelectedNodes>\r\n            <node>java.lang.ThreadLocal</node>\r\n          </SelectedNodes>\r\n          <Categories>\r\n            <Category>Methods</Category>\r\n          </Categories>\r\n          <SCOPE>All</SCOPE>\r\n          <VISIBILITY>private</VISIBILITY>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/jim/thread/ReadThreadTest.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"478\">\r\n          <caret line=\"29\" column=\"28\" selection-start-line=\"29\" selection-start-column=\"28\" selection-end-line=\"29\" selection-end-column=\"28\" />\r\n          <folding>\r\n            <element signature=\"method#run#0;class#ReadThread#0;class#ReadThreadTest#0\" expanded=\"true\" />\r\n            <element signature=\"method#run#0;class#Writethread#0;class#ReadThreadTest#0\" expanded=\"true\" />\r\n            <element signature=\"method#main#0;class#ReadThreadTest#0\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n  </component>\r\n  <component name=\"masterDetails\">\r\n    <states>\r\n      <state key=\"ArtifactsStructureConfigurable.UI\">\r\n        <settings>\r\n          <artifact-editor />\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n      <state key=\"FacetStructureConfigurable.UI\">\r\n        <settings>\r\n          <last-edited>No facets are configured</last-edited>\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n      <state key=\"GlobalLibrariesConfigurable.UI\">\r\n        <settings>\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n      <state key=\"JdkListConfigurable.UI\">\r\n        <settings>\r\n          <last-edited>1.8</last-edited>\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n      <state key=\"ModuleStructureConfigurable.UI\">\r\n        <settings>\r\n          <last-edited>study</last-edited>\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n                <option value=\"0.6\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n      <state key=\"ProjectLibrariesConfigurable.UI\">\r\n        <settings>\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n    </states>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 3e1e9fbe26dcb1d45352ab02cd5bd4fa9f8eca42)
++++ b/.idea/workspace.xml	(date 1618237537391)
+@@ -2,10 +2,9 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="adb43b5f-c88d-490e-9597-0ef5e47ebdfc" name="Default Changelist" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+-    <ignored path="$PROJECT_DIR$/out/" />
+-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -25,461 +24,6 @@
+     <expand />
+     <select />
+   </component>
+-  <component name="FileEditorManager">
+-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/HashMap.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="340">
+-              <caret line="147" column="55" selection-start-line="147" selection-start-column="55" selection-end-line="147" selection-end-column="55" />
+-              <folding>
+-                <element signature="docComment;class#HashMap#0" />
+-                <element signature="e#10630#10703#0" />
+-                <element signature="e#10775#10955#0" />
+-                <element signature="e#11010#11085#0" />
+-                <element signature="e#11143#11508#0" />
+-                <element signature="e#11558#11773#0" />
+-                <element signature="e#11825#12093#0" />
+-                <element signature="e#12147#12297#0" />
+-                <element signature="e#12147#13475#0" />
+-                <element signature="e#13219#13433#1" />
+-                <element signature="e#13541#14494#0" />
+-                <element signature="e#14631#14742#0" />
+-                <element signature="e#14831#15508#1" />
+-                <element signature="e#15053#15498#1" />
+-                <element signature="e#15107#15484#1" />
+-                <element signature="e#15541#15646#0" />
+-                <element signature="e#15902#15979#0" />
+-                <element signature="e#16303#16568#0" />
+-                <element signature="e#16607#16722#0" />
+-                <element signature="e#16772#16846#0" />
+-                <element signature="e#16876#17254#0" />
+-                <element signature="e#17288#17393#0" />
+-                <element signature="e#17647#17723#0" />
+-                <element signature="e#17818#18164#0" />
+-                <element signature="e#18791#19062#0" />
+-                <element signature="e#19168#19305#0" />
+-                <element signature="e#19417#19839#0" />
+-                <element signature="e#19985#20198#0" />
+-                <element signature="e#20323#20934#1" />
+-                <element signature="e#20356#20638#1" />
+-                <element signature="e#20772#20924#1" />
+-                <element signature="e#20946#21085#0" />
+-                <element signature="e#21142#21305#0" />
+-                <element signature="e#21374#22175#0" />
+-                <element signature="e#22310#22474#0" />
+-                <element signature="e#22696#23282#1" />
+-                <element signature="e#22911#23272#1" />
+-                <element signature="e#23053#23228#1" />
+-                <element signature="e#23315#23586#0" />
+-                <element signature="e#23691#24297#0" />
+-                <element signature="e#24403#24735#0" />
+-                <element signature="e#25106#26251#1" />
+-                <element signature="e#25408#25971#1" />
+-                <element signature="e#25463#25957#1" />
+-                <element signature="e#25511#25759#1" />
+-                <element signature="e#25999#26241#1" />
+-                <element signature="e#26393#26758#0" />
+-                <element signature="e#26975#27305#1" />
+-                <element signature="e#27021#27114#1" />
+-                <element signature="e#27421#27620#1" />
+-                <element signature="e#27646#27842#1" />
+-                <element signature="e#28035#29792#1" />
+-                <element signature="e#28082#29782#1" />
+-                <element signature="e#28158#29768#1" />
+-                <element signature="e#28449#29750#1" />
+-                <element signature="e#28664#29355#1" />
+-                <element signature="e#28765#29030#1" />
+-                <element signature="e#29064#29329#1" />
+-                <element signature="e#29428#29551#1" />
+-                <element signature="e#29596#29728#1" />
+-                <element signature="e#29827#29967#0" />
+-                <element signature="e#30208#30659#1" />
+-                <element signature="e#30273#30543#1" />
+-                <element signature="e#30420#30505#1" />
+-                <element signature="e#30671#30999#0" />
+-                <element signature="e#31101#31540#0" />
+-                <element signature="e#31712#32079#0" />
+-                <element signature="e#32385#33706#1" />
+-                <element signature="e#32610#33147#1" />
+-                <element signature="e#32746#33133#1" />
+-                <element signature="e#32771#33085#1" />
+-                <element signature="e#32932#33032#1" />
+-                <element signature="e#33295#33696#1" />
+-                <element signature="e#33739#33854#0" />
+-                <element signature="e#33973#34086#1" />
+-                <element signature="e#34098#34380#0" />
+-                <element signature="e#34507#34816#1" />
+-                <element signature="e#34558#34806#1" />
+-                <element signature="e#34626#34792#1" />
+-                <element signature="e#34850#35623#0" />
+-                <element signature="e#35705#35772#1" />
+-                <element signature="e#35803#36985#0" />
+-                <element signature="e#36629#36969#1" />
+-                <element signature="e#36719#36854#1" />
+-                <element signature="e#36991#37805#0" />
+-                <element signature="e#37901#37968#1" />
+-                <element signature="e#37999#39062#0" />
+-                <element signature="e#38704#39046#1" />
+-                <element signature="e#38794#38931#1" />
+-                <element signature="e#39068#39938#0" />
+-                <element signature="e#40101#41844#0" />
+-                <element signature="e#40837#41071#1" />
+-                <element signature="e#41492#41828#1" />
+-                <element signature="e#41582#41713#1" />
+-                <element signature="e#42569#42669#1" />
+-                <element signature="e#42824#42959#1" />
+-                <element signature="e#43560#44247#1" />
+-                <element signature="e#43695#44063#1" />
+-                <element signature="e#43758#44019#1" />
+-                <element signature="e#43882#43969#1" />
+-                <element signature="e#44151#44237#1" />
+-                <element signature="e#44313#44349#1" />
+-                <element signature="e#44372#44466#1" />
+-                <element signature="e#44559#44711#1" />
+-                <element signature="e#45179#45457#1" />
+-                <element signature="e#45266#45372#1" />
+-                <element signature="e#46059#46572#1" />
+-                <element signature="e#46194#46562#1" />
+-                <element signature="e#46257#46518#1" />
+-                <element signature="e#46381#46468#1" />
+-                <element signature="e#46707#46905#1" />
+-                <element signature="e#46736#46820#1" />
+-                <element signature="e#46934#47295#1" />
+-                <element signature="e#47035#47203#1" />
+-                <element signature="e#47972#48485#1" />
+-                <element signature="e#48107#48475#1" />
+-                <element signature="e#48170#48431#1" />
+-                <element signature="e#48294#48381#1" />
+-                <element signature="e#48511#48890#1" />
+-                <element signature="e#48699#48783#1" />
+-                <element signature="e#48918#49287#1" />
+-                <element signature="e#49023#49195#1" />
+-                <element signature="e#49544#49861#1" />
+-                <element signature="e#49626#49758#1" />
+-                <element signature="e#50116#50464#1" />
+-                <element signature="e#50198#50361#1" />
+-                <element signature="e#50266#50347#1" />
+-                <element signature="e#50581#50760#0" />
+-                <element signature="e#50765#50795#0" />
+-                <element signature="e#50879#50940#0" />
+-                <element signature="e#50978#51090#0" />
+-                <element signature="e#51474#51996#0" />
+-                <element signature="e#52319#52587#0" />
+-                <element signature="e#53345#54765#1" />
+-                <element signature="e#53347#53373#0" />
+-                <element signature="e#54029#54093#0" />
+-                <element signature="e#54487#54755#1" />
+-                <element signature="e#54866#56424#0" />
+-                <element signature="e#55293#55413#1" />
+-                <element signature="e#55868#55962#1" />
+-                <element signature="e#56430#56570#0" />
+-                <element signature="e#56576#56720#0" />
+-                <element signature="e#56726#56890#0" />
+-                <element signature="e#56988#58229#0" />
+-                <element signature="e#57833#58067#1" />
+-                <element signature="e#58235#60945#0" />
+-                <element signature="e#59138#59266#1" />
+-                <element signature="e#59449#59910#1" />
+-                <element signature="e#59541#59764#1" />
+-                <element signature="e#59641#59746#1" />
+-                <element signature="e#60207#60739#1" />
+-                <element signature="e#60263#60725#1" />
+-                <element signature="e#60379#60707#1" />
+-                <element signature="e#60951#63638#0" />
+-                <element signature="e#61866#61994#1" />
+-                <element signature="e#62177#62640#1" />
+-                <element signature="e#62269#62494#1" />
+-                <element signature="e#62369#62476#1" />
+-                <element signature="e#62937#63471#1" />
+-                <element signature="e#62993#63457#1" />
+-                <element signature="e#63109#63439#1" />
+-                <element signature="e#63644#66405#0" />
+-                <element signature="e#64585#64713#1" />
+-                <element signature="e#64896#65353#1" />
+-                <element signature="e#64988#65207#1" />
+-                <element signature="e#65088#65189#1" />
+-                <element signature="e#65663#66199#1" />
+-                <element signature="e#65719#66185#1" />
+-                <element signature="e#65835#66167#1" />
+-                <element signature="e#67494#67577#0" />
+-                <element signature="e#68174#68422#1" />
+-                <element signature="e#68225#68412#1" />
+-                <element signature="e#68293#68398#1" />
+-                <element signature="e#68523#68695#0" />
+-                <element signature="e#68523#91532#0" />
+-                <element signature="e#69090#69159#0" />
+-                <element signature="e#69243#69355#1" />
+-                <element signature="e#69375#69459#0" />
+-                <element signature="e#69629#70320#1" />
+-                <element signature="e#69780#70260#1" />
+-                <element signature="e#70340#70529#0" />
+-                <element signature="e#70646#71477#1" />
+-                <element signature="e#71541#71593#0" />
+-                <element signature="e#71744#72072#0" />
+-                <element signature="e#72443#72516#0" />
+-                <element signature="e#72670#74101#1" />
+-                <element signature="e#72793#72914#1" />
+-                <element signature="e#72936#74087#1" />
+-                <element signature="e#73098#74069#1" />
+-                <element signature="e#73714#74047#1" />
+-                <element signature="e#74161#74269#0" />
+-                <element signature="e#74428#74641#1" />
+-                <element signature="e#74684#74734#0" />
+-                <element signature="e#75047#76640#1" />
+-                <element signature="e#75496#75983#1" />
+-                <element signature="e#75533#75917#1" />
+-                <element signature="e#76088#76626#1" />
+-                <element signature="e#76660#77256#0" />
+-                <element signature="e#78176#78280#1" />
+-                <element signature="e#78395#79774#1" />
+-                <element signature="e#78725#78838#1" />
+-                <element signature="e#78860#79242#1" />
+-                <element signature="e#78960#79137#1" />
+-                <element signature="e#79993#80345#1" />
+-                <element signature="e#80463#80782#1" />
+-                <element signature="e#80586#80768#1" />
+-                <element signature="e#80868#81290#0" />
+-                <element signature="e#81679#82295#1" />
+-                <element signature="e#81799#82029#1" />
+-                <element signature="e#82051#82281#1" />
+-                <element signature="e#82329#82645#1" />
+-                <element signature="e#82455#82631#1" />
+-                <element signature="e#82678#82975#1" />
+-                <element signature="e#82810#82961#1" />
+-                <element signature="e#83339#83727#1" />
+-                <element signature="e#83985#84375#1" />
+-                <element signature="e#84635#86571#1" />
+-                <element signature="e#84682#84766#1" />
+-                <element signature="e#84908#85729#1" />
+-                <element signature="e#84974#85152#1" />
+-                <element signature="e#85178#85711#1" />
+-                <element signature="e#85223#85389#1" />
+-                <element signature="e#85430#85689#1" />
+-                <element signature="e#85521#85663#1" />
+-                <element signature="e#85751#86557#1" />
+-                <element signature="e#85803#85981#1" />
+-                <element signature="e#86007#86539#1" />
+-                <element signature="e#86051#86218#1" />
+-                <element signature="e#86259#86517#1" />
+-                <element signature="e#86350#86491#1" />
+-                <element signature="e#86771#90530#1" />
+-                <element signature="e#86900#86984#1" />
+-                <element signature="e#87017#87104#1" />
+-                <element signature="e#87152#88824#1" />
+-                <element signature="e#87215#87444#1" />
+-                <element signature="e#87539#88806#1" />
+-                <element signature="e#87718#87825#1" />
+-                <element signature="e#87855#88784#1" />
+-                <element signature="e#87912#88271#1" />
+-                <element signature="e#88317#88535#1" />
+-                <element signature="e#88580#88720#1" />
+-                <element signature="e#88846#90516#1" />
+-                <element signature="e#88909#89138#1" />
+-                <element signature="e#89233#90498#1" />
+-                <element signature="e#89412#89519#1" />
+-                <element signature="e#89549#90476#1" />
+-                <element signature="e#89606#89963#1" />
+-                <element signature="e#90009#90226#1" />
+-                <element signature="e#90271#90412#1" />
+-                <element signature="e#90550#90602#0" />
+-              </folding>
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/lang/ThreadLocal.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="1800">
+-              <caret line="412" column="51" selection-start-line="412" selection-start-column="51" selection-end-line="412" selection-end-column="51" />
+-              <folding>
+-                <element signature="docComment;class#ThreadLocal#0" />
+-                <element signature="docComment;field#threadLocalHashCode#0;class#ThreadLocal#0" />
+-                <element signature="docComment;field#nextHashCode#0;class#ThreadLocal#0" />
+-                <element signature="docComment;field#HASH_INCREMENT#0;class#ThreadLocal#0" />
+-                <element signature="docComment;method#nextHashCode#0;class#ThreadLocal#0" />
+-                <element signature="docComment;method#initialValue#0;class#ThreadLocal#0" />
+-                <element signature="docComment;method#withInitial#0;class#ThreadLocal#0" />
+-                <element signature="docComment;method#ThreadLocal#0;class#ThreadLocal#0" />
+-                <element signature="docComment;method#get#0;class#ThreadLocal#0" />
+-                <element signature="e#5542#5770#1" />
+-                <element signature="e#5628#5760#1" />
+-                <element signature="docComment;method#setInitialValue#0;class#ThreadLocal#0" />
+-                <element signature="docComment;method#set#0;class#ThreadLocal#0" />
+-                <element signature="docComment;method#remove#0;class#ThreadLocal#0" />
+-                <element signature="docComment;method#getMap#0;class#ThreadLocal#0" />
+-                <element signature="docComment;method#createMap#0;class#ThreadLocal#0" />
+-                <element signature="docComment;method#createInheritedMap#0;class#ThreadLocal#0" />
+-                <element signature="docComment;method#childValue#0;class#ThreadLocal#0" />
+-                <element signature="docComment;class#SuppliedThreadLocal#0;class#ThreadLocal#0" />
+-                <element signature="class#SuppliedThreadLocal#0;class#ThreadLocal#0" />
+-                <element signature="docComment;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="docComment;class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="docComment;field#value#0;class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="method#Entry#0;class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="true" />
+-                <element signature="docComment;field#INITIAL_CAPACITY#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="docComment;field#table#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="docComment;field#size#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="docComment;field#threshold#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="docComment;method#setThreshold#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="docComment;method#nextIndex#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="docComment;method#prevIndex#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="docComment;method#ThreadLocalMap#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="docComment;method#ThreadLocalMap#1;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="e#12918#13575#1" />
+-                <element signature="e#12993#13561#1" />
+-                <element signature="e#13160#13543#1" />
+-                <element signature="docComment;method#getEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="method#getEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="true" />
+-                <element signature="docComment;method#getEntryAfterMiss#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="e#14890#15174#1" />
+-                <element signature="docComment;method#set#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="e#15456#15514#0" />
+-                <element signature="e#15941#16250#1" />
+-                <element signature="e#16018#16102#1" />
+-                <element signature="e#16135#16236#1" />
+-                <element signature="docComment;method#remove#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="e#16766#16938#1" />
+-                <element signature="e#16804#16924#1" />
+-                <element signature="docComment;method#replaceStaleEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="e#17888#17945#0" />
+-                <element signature="e#18418#18480#0" />
+-                <element signature="e#18640#19787#1" />
+-                <element signature="e#18703#18745#0" />
+-                <element signature="e#19062#19478#1" />
+-                <element signature="e#19496#19550#0" />
+-                <element signature="docComment;method#expungeStaleEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="e#21147#21830#1" />
+-                <element signature="e#21224#21342#1" />
+-                <element signature="e#21348#21816#1" />
+-                <element signature="e#21445#21798#1" />
+-                <element signature="e#21511#21562#0" />
+-                <element signature="docComment;method#cleanSomeSlots#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="e#23311#23580#1" />
+-                <element signature="e#23436#23566#1" />
+-                <element signature="docComment;method#rehash#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="docComment;method#resize#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="e#24430#24970#1" />
+-                <element signature="e#24500#24956#1" />
+-                <element signature="e#24585#24663#1" />
+-                <element signature="e#24669#24938#1" />
+-                <element signature="docComment;method#expungeStaleEntries#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+-                <element signature="e#25300#25441#1" />
+-              </folding>
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/lang/InheritableThreadLocal.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="480">
+-              <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/jim/thread/TestThreadLocal.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="80">
+-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+-              <folding>
+-                <element signature="method#main#0;class#TestThreadLocal#0" expanded="true" />
+-              </folding>
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="true">
+-        <entry file="file://$PROJECT_DIR$/src/jim/thread/ReadThreadTest.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="478">
+-              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+-              <folding>
+-                <element signature="method#run#0;class#ReadThread#0;class#ReadThreadTest#0" expanded="true" />
+-                <element signature="method#run#0;class#Writethread#0;class#ReadThreadTest#0" expanded="true" />
+-                <element signature="method#main#0;class#ReadThreadTest#0" expanded="true" />
+-              </folding>
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/nio/DirectLongBufferU.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="460">
+-              <caret line="48" column="51" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="51" />
+-              <folding>
+-                <element signature="imports" expanded="true" />
+-              </folding>
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/nio/Bits.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="4520">
+-              <caret line="562" column="18" selection-start-line="562" selection-start-column="18" selection-end-line="562" selection-end-column="18" />
+-              <folding>
+-                <element signature="e#15112#15113#0" expanded="true" />
+-                <element signature="e#15141#15142#0" expanded="true" />
+-              </folding>
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/jim/thread/TestUnSafe.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="360">
+-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+-              <folding>
+-                <element signature="imports" expanded="true" />
+-                <element signature="method#main#0;class#TestUnSafe#0" expanded="true" />
+-              </folding>
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="680">
+-              <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="uml://JAVA/java.lang.ThreadLocal">
+-          <provider selected="true" editor-type-id="UmlEditorProvider">
+-            <state>
+-              <ID>JAVA</ID>
+-              <OriginalElement>java.lang.ThreadLocal</OriginalElement>
+-              <nodes>
+-                <node x="0.0" y="0.0">java.lang.ThreadLocal</node>
+-              </nodes>
+-              <notes />
+-              <edges />
+-              <settings layout="Hierarchic Group" zoom="1.0" x="195.0" y="141.5" />
+-              <SelectedNodes>
+-                <node>java.lang.ThreadLocal</node>
+-              </SelectedNodes>
+-              <Categories>
+-                <Category>Methods</Category>
+-              </Categories>
+-              <SCOPE>All</SCOPE>
+-              <VISIBILITY>private</VISIBILITY>
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-    </leaf>
+-  </component>
+   <component name="FileTemplateManagerImpl">
+     <option name="RECENT_TEMPLATES">
+       <list>
+@@ -492,11 +36,7 @@
+       <find>name</find>
+       <find>setN</find>
+       <find>set</find>
+-      <find>Unsafe</find>
+     </findStrings>
+-    <dirStrings>
+-      <dir>D:\DevInstall\JAVA\JDK\jre\lib\rt.jar</dir>
+-    </dirStrings>
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -523,9 +63,6 @@
+         <option value="$PROJECT_DIR$/src/jim/thread/UserThreadTest.java" />
+         <option value="$PROJECT_DIR$/src/jim/thread/ThreadLocalTest.java" />
+         <option value="$PROJECT_DIR$/src/jim/thread/TestThreadLocal.java" />
+-        <option value="$PROJECT_DIR$/src/jim/thread/TestUnSafe.java" />
+-        <option value="$PROJECT_DIR$/src/jim/thread/ReadThread.java" />
+-        <option value="$PROJECT_DIR$/src/jim/thread/ReadThreadTest.java" />
+       </list>
+     </option>
+   </component>
+@@ -534,7 +71,9 @@
+     <option name="width" value="1300" />
+     <option name="height" value="1400" />
+   </component>
++  <component name="ProjectId" id="1r4Z0xUzF0zjPrTzFNWOsvDxIBx" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
++    <OptionsSetting value="false" id="Update" />
+     <ConfirmationsSetting value="1" id="Add" />
+   </component>
+   <component name="ProjectView">
+@@ -582,15 +121,23 @@
+               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+-              <item name="sun" type="462c0819:PsiDirectoryNode" />
++              <item name="java" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="study" type="b2602c69:ProjectViewProjectNode" />
++              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
++              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
++              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
++              <item name="java" type="462c0819:PsiDirectoryNode" />
++              <item name="lang" type="462c0819:PsiDirectoryNode" />
+             </path>
+             <path>
+               <item name="study" type="b2602c69:ProjectViewProjectNode" />
+               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+-              <item name="sun" type="462c0819:PsiDirectoryNode" />
+-              <item name="misc" type="462c0819:PsiDirectoryNode" />
++              <item name="java" type="462c0819:PsiDirectoryNode" />
++              <item name="util" type="462c0819:PsiDirectoryNode" />
+             </path>
+           </expand>
+           <select />
+@@ -598,30 +145,24 @@
+       </pane>
+     </panes>
+   </component>
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
+   <component name="PropertiesComponent">
++    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
++    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+     <property name="aspect.path.notification.shown" value="true" />
+-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617704298397" />
++    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617273941296" />
+     <property name="project.structure.last.edited" value="Artifacts" />
+     <property name="project.structure.proportion" value="0.0" />
+     <property name="project.structure.side.proportion" value="0.2" />
+     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
+   </component>
+-  <component name="RunDashboard">
+-    <option name="ruleStates">
+-      <list>
+-        <RuleState>
+-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+-        </RuleState>
+-        <RuleState>
+-          <option name="name" value="StatusDashboardGroupingRule" />
+-        </RuleState>
+-      </list>
+-    </option>
+-  </component>
+-  <component name="RunManager" selected="Application.ReadThreadTest">
+-    <configuration name="ReadThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="jim.thread.ReadThreadTest" />
++  <component name="RunManager" selected="Application.TestThreadLocal">
++    <configuration name="DeadLockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="jim.thread.DeadLockTest" />
+       <module name="study" />
+       <extension name="coverage">
+         <pattern>
+@@ -633,8 +174,8 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="TestThreadLocal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="jim.thread.TestThreadLocal" />
++    <configuration name="TestInterrupted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="jim.thread.TestInterrupted" />
+       <module name="study" />
+       <extension name="coverage">
+         <pattern>
+@@ -646,8 +187,8 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="TestUnSafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="jim.thread.TestUnSafe" />
++    <configuration name="TestThreadLocal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="jim.thread.TestThreadLocal" />
+       <module name="study" />
+       <extension name="coverage">
+         <pattern>
+@@ -686,22 +227,23 @@
+       </method>
+     </configuration>
+     <list>
++      <item itemvalue="Application.TestInterrupted" />
++      <item itemvalue="Application.DeadLockTest" />
+       <item itemvalue="Application.UserThreadTest" />
+       <item itemvalue="Application.ThreadLocalTest" />
+       <item itemvalue="Application.TestThreadLocal" />
+-      <item itemvalue="Application.TestUnSafe" />
+-      <item itemvalue="Application.ReadThreadTest" />
+     </list>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Application.ReadThreadTest" />
+-        <item itemvalue="Application.TestUnSafe" />
+         <item itemvalue="Application.TestThreadLocal" />
+         <item itemvalue="Application.ThreadLocalTest" />
+         <item itemvalue="Application.UserThreadTest" />
++        <item itemvalue="Application.DeadLockTest" />
++        <item itemvalue="Application.TestInterrupted" />
+       </list>
+     </recent_temporary>
+   </component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="SvnConfiguration">
+     <configuration />
+   </component>
+@@ -713,21 +255,18 @@
+       <option name="presentableId" value="Default" />
+       <updated>1617072916591</updated>
+       <workItem from="1617072919594" duration="22480000" />
+-      <workItem from="1617247166208" duration="12077000" />
+-      <workItem from="1617675429334" duration="3042000" />
+-      <workItem from="1617695024558" duration="5012000" />
+-      <workItem from="1617704092535" duration="69000" />
+-      <workItem from="1617704170144" duration="651000" />
++      <workItem from="1617247166208" duration="11068000" />
+     </task>
+     <servers />
+   </component>
+   <component name="TimeTrackingManager">
+-    <option name="totallyTimeSpent" value="43331000" />
++    <option name="totallyTimeSpent" value="33548000" />
+   </component>
+   <component name="ToolWindowManager">
+     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
++    <editor active="true" />
+     <layout>
+-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18213573" />
++      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1761477" />
+       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+       <window_info id="Designer" order="2" />
+       <window_info id="Image Layers" order="3" />
+@@ -736,12 +275,12 @@
+       <window_info id="Favorites" order="6" side_tool="true" />
+       <window_info anchor="bottom" id="Message" order="0" />
+       <window_info anchor="bottom" id="Find" order="1" />
+-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40847984" />
++      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18717684" />
+       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+       <window_info anchor="bottom" id="TODO" order="6" />
+-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.10858325" />
++      <window_info anchor="bottom" id="Terminal" order="7" weight="0.19648397" />
+       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+       <window_info anchor="bottom" id="Messages" order="10" />
+@@ -764,6 +303,9 @@
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="1" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="oldMeFiltersMigrated" value="true" />
+   </component>
+   <component name="editorHistoryManager">
+     <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/lang/Runnable.java">
+@@ -980,6 +522,61 @@
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="340">
+           <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/jim/thread/DeadLockTest.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="157">
++          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
++          <folding>
++            <element signature="method#run#0;class#958:1590" expanded="true" />
++          </folding>
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/jim/thread/UserThreadTest.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="340">
++          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
++          <folding>
++            <element signature="method#run#0;class#177:331" expanded="true" />
++          </folding>
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/jim/thread/ThreadLocalTest.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="217">
++          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
++          <folding>
++            <element signature="method#print#0;class#ThreadLocalTest#0" expanded="true" />
++            <element signature="method#main#0;class#ThreadLocalTest#0" expanded="true" />
++            <element signature="method#run#0;class#350:601" expanded="true" />
++            <element signature="method#run#0;class#647:898" expanded="true" />
++          </folding>
++        </state>
++      </provider>
++    </entry>
++    <entry file="uml://JAVA/java.lang.ThreadLocal">
++      <provider selected="true" editor-type-id="UmlEditorProvider">
++        <state>
++          <ID>JAVA</ID>
++          <OriginalElement>java.lang.ThreadLocal</OriginalElement>
++          <nodes>
++            <node x="0.0" y="0.0">java.lang.ThreadLocal</node>
++          </nodes>
++          <notes />
++          <edges />
++          <settings layout="Hierarchic Group" zoom="1.0" x="-579.0" y="-112.0" />
++          <SelectedNodes>
++            <node>java.lang.ThreadLocal</node>
++          </SelectedNodes>
++          <Categories>
++            <Category>Methods</Category>
++          </Categories>
++          <SCOPE>All</SCOPE>
++          <VISIBILITY>private</VISIBILITY>
+         </state>
+       </provider>
+     </entry>
+@@ -1004,7 +601,7 @@
+               <point x="0.0" y="26.5" />
+             </edge>
+           </edges>
+-          <settings layout="Hierarchic Group" zoom="0.28152492668621704" x="352.0" y="842.0" />
++          <settings layout="Hierarchic Group" zoom="1.0" x="-559.0" y="220.0" />
+           <SelectedNodes>
+             <node>java.lang.Thread</node>
+             <node>java.lang.Runnable</node>
+@@ -1019,8 +616,8 @@
+     </entry>
+     <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/lang/Thread.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="720">
+-          <caret line="169" selection-start-line="169" selection-end-line="169" />
++        <state relative-caret-position="120">
++          <caret line="169" lean-forward="true" selection-start-line="169" selection-end-line="169" />
+           <folding>
+             <element signature="docComment;class#Thread#0" />
+             <element signature="e#6729#6990#0" />
+@@ -1134,6 +731,7 @@
+             <element signature="e#63353#63645#0" />
+             <element signature="e#63998#64126#1" />
+             <element signature="e#64177#64404#0" />
++            <element signature="class#64542:65445" />
+             <element signature="e#64772#65371#1" />
+             <element signature="e#64802#64970#0" />
+             <element signature="e#65060#65288#0" />
+@@ -1174,34 +772,10 @@
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/jim/thread/DeadLockTest.java">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="400">
+-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/src/jim/thread/UserThreadTest.java">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="280">
+-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/src/jim/thread/ThreadLocalTest.java">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="360">
+-          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+-          <folding>
+-            <element signature="method#print#0;class#ThreadLocalTest#0" expanded="true" />
+-          </folding>
+-        </state>
+-      </provider>
+-    </entry>
+     <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/util/HashMap.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="340">
+-          <caret line="147" column="55" selection-start-line="147" selection-start-column="55" selection-end-line="147" selection-end-column="55" />
++        <state relative-caret-position="-2240">
++          <caret line="147" column="55" lean-forward="true" selection-start-line="147" selection-start-column="55" selection-end-line="147" selection-end-column="55" />
+           <folding>
+             <element signature="docComment;class#HashMap#0" />
+             <element signature="e#10630#10703#0" />
+@@ -1212,6 +786,8 @@
+             <element signature="e#11825#12093#0" />
+             <element signature="e#12147#12297#0" />
+             <element signature="e#12147#13475#0" />
++            <element signature="e#12636#12682#0" />
++            <element signature="e#12691#12739#0" />
+             <element signature="e#13219#13433#1" />
+             <element signature="e#13541#14494#0" />
+             <element signature="e#14631#14742#0" />
+@@ -1459,8 +1035,8 @@
+     </entry>
+     <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/lang/ThreadLocal.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="1800">
+-          <caret line="412" column="51" selection-start-line="412" selection-start-column="51" selection-end-line="412" selection-end-column="51" />
++        <state relative-caret-position="183">
++          <caret line="412" column="51" lean-forward="true" selection-start-line="412" selection-start-column="51" selection-end-line="412" selection-end-column="51" />
+           <folding>
+             <element signature="docComment;class#ThreadLocal#0" />
+             <element signature="docComment;field#threadLocalHashCode#0;class#ThreadLocal#0" />
+@@ -1536,96 +1112,24 @@
+             <element signature="docComment;method#expungeStaleEntries#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+             <element signature="e#25300#25441#1" />
+           </folding>
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/lang/InheritableThreadLocal.java">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="480">
+-          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/jim/thread/TestThreadLocal.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="80">
+-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
++        <state relative-caret-position="440">
++          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+           <folding>
+-            <element signature="method#main#0;class#TestThreadLocal#0" expanded="true" />
++            <element signature="e#354#355#0" expanded="true" />
++            <element signature="e#406#407#0" expanded="true" />
+           </folding>
+         </state>
+       </provider>
+     </entry>
+-    <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/nio/DirectLongBufferU.java">
++    <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/lang/InheritableThreadLocal.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="460">
+-          <caret line="48" column="51" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="51" />
+-          <folding>
+-            <element signature="imports" expanded="true" />
+-          </folding>
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/src.zip!/java/nio/Bits.java">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="4520">
+-          <caret line="562" column="18" selection-start-line="562" selection-start-column="18" selection-end-line="562" selection-end-column="18" />
+-          <folding>
+-            <element signature="e#15112#15113#0" expanded="true" />
+-            <element signature="e#15141#15142#0" expanded="true" />
+-          </folding>
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/src/jim/thread/TestUnSafe.java">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="360">
+-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+-          <folding>
+-            <element signature="imports" expanded="true" />
+-            <element signature="method#main#0;class#TestUnSafe#0" expanded="true" />
+-          </folding>
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="jar://$PROJECT_DIR$/../JAVA/JDK/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="680">
+-          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="uml://JAVA/java.lang.ThreadLocal">
+-      <provider selected="true" editor-type-id="UmlEditorProvider">
+-        <state>
+-          <ID>JAVA</ID>
+-          <OriginalElement>java.lang.ThreadLocal</OriginalElement>
+-          <nodes>
+-            <node x="0.0" y="0.0">java.lang.ThreadLocal</node>
+-          </nodes>
+-          <notes />
+-          <edges />
+-          <settings layout="Hierarchic Group" zoom="1.0" x="195.0" y="141.5" />
+-          <SelectedNodes>
+-            <node>java.lang.ThreadLocal</node>
+-          </SelectedNodes>
+-          <Categories>
+-            <Category>Methods</Category>
+-          </Categories>
+-          <SCOPE>All</SCOPE>
+-          <VISIBILITY>private</VISIBILITY>
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/src/jim/thread/ReadThreadTest.java">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="478">
+-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+-          <folding>
+-            <element signature="method#run#0;class#ReadThread#0;class#ReadThreadTest#0" expanded="true" />
+-            <element signature="method#run#0;class#Writethread#0;class#ReadThreadTest#0" expanded="true" />
+-            <element signature="method#main#0;class#ReadThreadTest#0" expanded="true" />
+-          </folding>
++        <state relative-caret-position="76">
++          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+         </state>
+       </provider>
+     </entry>
